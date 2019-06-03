@@ -31,7 +31,7 @@ def generate_readme():
             # Bibtex
             bib = bibtexparser.load(open(os.path.join(ref_folder, ref), 'r'))
             assert len(bib.entries) > 0, "{} not in .bib format".format(ref)
-            readme.writelines(from_bib_to_markdown(i, bib.entries[0]))
+            readme.writelines(from_bib_to_markdown(bib.entries[0]))
 
             # Notes
             notes = os.path.join(ref_folder, ref[:ref.index('.bib')] + '.notes')
@@ -42,7 +42,7 @@ def generate_readme():
             update_index()
     return 0
 
-def from_bib_to_markdown(i, bib):
+def from_bib_to_markdown(bib):
     """
         Transforms the json format into a nice markdown
     
@@ -52,8 +52,8 @@ def from_bib_to_markdown(i, bib):
         Returns:
             Markdown text
     """
-    markdown = "### {} - {}\n".format(i, bib["title"])
-    markdown += "by {} in {}\n\n".format(bib["author"], bib["year"])
+    markdown = "###{}\n".format(bib["title"])
+    markdown += "by {}\nin {}\n\n".format(bib["author"], bib["year"])
     markdown += "#### Abstract\n"
     markdown += "> {}\n\n".format(bib["abstract"])
     return markdown

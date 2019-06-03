@@ -8,7 +8,7 @@ if index.new_files():
     try:
         index.generate_readme()
         print("New readme generated")
-        os.system("git add README.md")
+        os.system("git add README.md References/index.csv")
     except Exception as e:
         print(e)
         os.system("exit 1")
