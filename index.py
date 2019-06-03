@@ -52,7 +52,7 @@ def from_bib_to_markdown(bib):
         Returns:
             Markdown text
     """
-    markdown = "###{}\n".format(bib["title"])
+    markdown = "### {}\n".format(bib["title"])
     markdown += "by {}\nin {}\n\n".format(bib["author"], bib["year"])
     markdown += "#### Abstract\n"
     markdown += "> {}\n\n".format(bib["abstract"])
