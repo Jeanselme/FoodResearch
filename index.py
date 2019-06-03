@@ -23,7 +23,7 @@ def generate_readme():
         Parse files and generate markdown readme
     """
     with open("README.md", 'w') as readme:
-        readme.write("# Food Realted Research\n\n")
+        readme.write("# [Food Realted Research](https://jeanselme.github.io/FoodResearch/)\n\n")
 
         readme.write("## Articles\n\n")
         datasets = {}
