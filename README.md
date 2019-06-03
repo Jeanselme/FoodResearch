@@ -2,7 +2,7 @@
 
 ## Articles
 
-### Large-scale and high-resolution analysis of food purchases and health outcomes
+### [Large-scale and high-resolution analysis of food purchases and health outcomes](https://doi.org/10.1140/epjds/s13688-019-0191-y)
 by Aiello, Luca Maria and Schifanella, Rossano and Quercia, Daniele and Del Prete, Lucia
 in 2019
 
