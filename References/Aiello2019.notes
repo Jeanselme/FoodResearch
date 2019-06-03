@@ -1,0 +1,7 @@
+{
+	"Summary": "This article uses grocery store data and medical prescriptions to analyze the impact of food on metabolic syndrom in London.",
+	"Conclusions": ["Socio economic conditons impacts less than nutritions", "Eating less and diverse nutrients is linked to better health conditions", "Calorie concentration is more important than calorie consumption"],
+	"Limitations": ["Selection bias: population are limited to a grocery and only people with loyalty card are concerned", "No causal explanation"],
+	"Data": [],
+	"Website": "http://goodcitylife.org/food/project.php"
+}
