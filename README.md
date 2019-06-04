@@ -29,7 +29,8 @@ This article uses grocery store data and medical prescriptions to analyze the im
 [http://goodcitylife.org/food/project.php](http://goodcitylife.org/food/project.php)
 
 #### Tags
-[\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) </details>
+[\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) 
+</details>
 
 ### <a name='2'></a> \[2\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
@@ -65,7 +66,8 @@ This article show the impact of plate and ustensils size on the food consumption
 - Is the impact opposite for anorexic or obese patients ?
 
 #### Tags
-[\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) </details>
+[\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) 
+</details>
 
 
 ## Tags
