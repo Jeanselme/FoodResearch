@@ -18,6 +18,7 @@ def update_index():
             index_file.loc[ref] = pd.Timestamp.now()
     index_file.to_csv(os.path.join(ref_folder, 'index.csv'), header = True)
 
+tags = {}
 def generate_readme():
     """
         Parse files and generate markdown readme
@@ -31,18 +32,24 @@ def generate_readme():
             # Bibtex
             bib = bibtexparser.load(open(os.path.join(ref_folder, ref), 'r'))
             assert len(bib.entries) > 0, "{} not in .bib format".format(ref)
-            readme.writelines(from_bib_to_markdown(bib.entries[0]))
+            readme.writelines(from_bib_to_markdown(bib.entries[0], i + 1))
 
             # Notes
             notes = os.path.join(ref_folder, ref[:ref.index('.bib')] + '.notes')
             if os.path.isfile(notes):
-                markdown = from_notes_to_markdown(json.load(open(notes, 'r')))
+                markdown = from_notes_to_markdown(json.load(open(notes, 'r')), i + 1)
                 readme.writelines(markdown)
 
-            update_index()
+        # Tags
+        readme.write("\n## Tags\n\n")
+        for tag in tags:
+            readme.writelines("#### {}\n\n".format(tag))
+            readme.writelines(','.join(["[\[{}\]](#{})".format(ind, ind) for ind in tags[tag]]) + '\n')
+
+        update_index()
     return 0
 
-def from_bib_to_markdown(bib):
+def from_bib_to_markdown(bib, ind):
     """
         Transforms the json format into a nice markdown
     
@@ -52,14 +59,14 @@ def from_bib_to_markdown(bib):
         Returns:
             Markdown text
     """
-    markdown = "### [{}]({})\n".format(bib["title"], bib["url"])
+    markdown = "### <a name='{}'></a> \[{}\] [{}]({})\n".format(ind, ind, bib["title"], bib["url"])
     markdown += "by {}\nin {}\n\n".format(bib["author"], bib["year"])
     markdown += "#### Abstract\n"
     markdown += "> {}\n\n".format(bib["abstract"])
     return markdown
 
 note_format = [	"Summary", "Conclusions", "Limitations", "Data", "Website"]
-def from_notes_to_markdown(notes):
+def from_notes_to_markdown(notes, ind):
     """
         Transforms the json format into a nice markdown
     
@@ -69,6 +76,7 @@ def from_notes_to_markdown(notes):
         Returns:
             markdown, datasets: mardown text and list of datasets linked to the article
     """
+    global tags
     markdown = ""
     for cat in [nf for nf in note_format if nf in notes]:
         markdown += "#### {}\n".format(cat)
@@ -78,8 +86,18 @@ def from_notes_to_markdown(notes):
         else:
             markdown += "{}\n".format(website_to_markdown(notes[cat]))
         markdown += "\n"
-    else:
-        markdown += "\n"
+
+    if "Tags" in notes:
+        markdown += "#### Tags\n"
+        for tag in notes["Tags"]:
+            markdown += "[\#{}](#{}) ".format(tag, tag)
+
+            if tag in tags:
+                tags[tag].append(ind)
+            else:
+                tags[tag] = [ind]
+
+    markdown += "\n" 
     return markdown
 
 def website_to_markdown(text):

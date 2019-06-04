@@ -2,7 +2,7 @@
 
 ## Articles
 
-### [Large-scale and high-resolution analysis of food purchases and health outcomes](https://doi.org/10.1140/epjds/s13688-019-0191-y)
+### <a name='1'></a> \[1\] [Large-scale and high-resolution analysis of food purchases and health outcomes](https://doi.org/10.1140/epjds/s13688-019-0191-y)
 by Aiello, Luca Maria and Schifanella, Rossano and Quercia, Daniele and Del Prete, Lucia
 in 2019
 
@@ -26,4 +26,17 @@ This article uses grocery store data and medical prescriptions to analyze the im
 #### Website
 [http://goodcitylife.org/food/project.php](http://goodcitylife.org/food/project.php)
 
+#### Tags
+[\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) 
 
+## Tags
+
+#### ML
+
+[\[1\]](#1)
+#### Obesity
+
+[\[1\]](#1)
+#### Grocery
+
+[\[1\]](#1)
