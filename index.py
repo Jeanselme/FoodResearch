@@ -28,7 +28,7 @@ def generate_readme():
 
         readme.write("## Articles\n\n")
         datasets = {}
-        for i, ref in enumerate([f for f in os.listdir(ref_folder) if '.bib' in f]):
+        for i, ref in enumerate(sorted([f for f in os.listdir(ref_folder) if '.bib' in f])):
             # Bibtex
             bib = bibtexparser.load(open(os.path.join(ref_folder, ref), 'r'))
             assert len(bib.entries) > 0, "{} not in .bib format".format(ref)
@@ -42,7 +42,7 @@ def generate_readme():
 
         # Tags
         readme.write("\n## Tags\n\n")
-        for tag in tags:
+        for tag in sorted(tags):
             readme.writelines("#### <a name='{}'></a> {}\n\n".format(tag, tag))
             readme.writelines(', '.join(["[\[{}\]](#{})".format(ind, ind) for ind in tags[tag]]) + '\n')
 
