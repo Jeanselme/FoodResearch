@@ -97,7 +97,7 @@ def from_notes_to_markdown(notes, ind):
             else:
                 tags[tag] = [ind]
 
-    markdown += "\n" 
+    markdown += "\n\n" 
     return markdown
 
 def website_to_markdown(text):
