@@ -44,7 +44,7 @@ def generate_readme():
         readme.write("\n## Tags\n\n")
         for tag in tags:
             readme.writelines("#### {}\n\n".format(tag))
-            readme.writelines(','.join(["[\[{}\]](#{})".format(ind, ind) for ind in tags[tag]]) + '\n')
+            readme.writelines(', '.join(["[\[{}\]](#{})".format(ind, ind) for ind in tags[tag]]) + '\n')
 
         update_index()
     return 0
@@ -62,7 +62,7 @@ def from_bib_to_markdown(bib, ind):
     markdown = "### <a name='{}'></a> \[{}\] [{}]({})\n".format(ind, ind, bib["title"], bib["url"])
     markdown += "by {}\nin {}\n\n".format(bib["author"], bib["year"])
     markdown += "#### Abstract\n"
-    markdown += "> {}\n\n".format(bib["abstract"])
+    markdown += "> {}\n\n".format(bib["abstract"].replace('\n', '\n>'))
     return markdown
 
 note_format = [	"Summary", "Conclusions", "Limitations", "Data", "Website"]

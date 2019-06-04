@@ -7,18 +7,17 @@ by Wansink, Brian and Van Ittersum, Koert and Painter, James E
 in 2006
 
 #### Abstract
-> 
-BACKGROUND:
-Because people eat most of what they serve themselves, any contextual cues that lead them to over-serve should lead them to over-eat. In building on the size-contrast illusion, this research examines whether the size of a bowl or serving spoon unknowingly biases how much a person serves and eats.
-
-METHODS:
-The 2 x 2 between-subjects design involved 85 nutrition experts who were attending an ice cream social to celebrate the success of a colleague in 2002. They were randomly given either a smaller (17 oz) or a larger (34 oz) bowl and either a smaller (2 oz) or larger (3 oz) ice cream scoop. After serving themselves, they completed a brief survey as their ice cream was weighed. The analysis was conducted in 2003.
-
-RESULTS:
-Even when nutrition experts were given a larger bowl, they served themselves 31.0% more (6.25 vs 4.77 oz, F(1, 80) = 8.05, p < 0.01) without being aware of it. Their servings increased by 14.5% when they were given a larger serving spoon (5.77 vs 5.04 oz, F(1, 80)=2.70, p = 0.10).
-
-CONCLUSIONS:
-People could try using the size of their bowls and possibly serving spoons to help them better control how much they consume. Those interested in losing weight should use smaller bowls and spoons, while those needing to gain weight--such as the undernourished or aged--could be encouraged to use larger ones. Epidemiologic implications are discussed.
+> BACKGROUND:
+>Because people eat most of what they serve themselves, any contextual cues that lead them to over-serve should lead them to over-eat. In building on the size-contrast illusion, this research examines whether the size of a bowl or serving spoon unknowingly biases how much a person serves and eats.    
+>
+>METHODS:
+>The 2 x 2 between-subjects design involved 85 nutrition experts who were attending an ice cream social to celebrate the success of a colleague in 2002. They were randomly given either a smaller (17 oz) or a larger (34 oz) bowl and either a smaller (2 oz) or larger (3 oz) ice cream scoop. After serving themselves, they completed a brief survey as their ice cream was weighed. The analysis was conducted in 2003.
+>
+>RESULTS:
+>Even when nutrition experts were given a larger bowl, they served themselves 31.0% more (6.25 vs 4.77 oz, F(1, 80) = 8.05, p < 0.01) without being aware of it. Their servings increased by 14.5% when they were given a larger serving spoon (5.77 vs 5.04 oz, F(1, 80)=2.70, p = 0.10).
+>
+>CONCLUSIONS:
+>People could try using the size of their bowls and possibly serving spoons to help them better control how much they consume. Those interested in losing weight should use smaller bowls and spoons, while those needing to gain weight--such as the undernourished or aged--could be encouraged to use larger ones. Epidemiologic implications are discussed.
 
 #### Summary
 This article show the impact of plate and ustensils size on the food consumption.
@@ -34,6 +33,7 @@ This article show the impact of plate and ustensils size on the food consumption
 
 #### Tags
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) 
+
 ### <a name='2'></a> \[2\] [Large-scale and high-resolution analysis of food purchases and health outcomes](https://doi.org/10.1140/epjds/s13688-019-0191-y)
 by Aiello, Luca Maria and Schifanella, Rossano and Quercia, Daniele and Del Prete, Lucia
 in 2019
@@ -59,6 +59,7 @@ This article uses grocery store data and medical prescriptions to analyze the im
 #### Tags
 [\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) 
 
+
 ## Tags
 
 #### ML
@@ -66,7 +67,7 @@ This article uses grocery store data and medical prescriptions to analyze the im
 [\[2\]](#2)
 #### Obesity
 
-[\[1\]](#1),[\[2\]](#2)
+[\[1\]](#1), [\[2\]](#2)
 #### Grocery
 
 [\[2\]](#2)
