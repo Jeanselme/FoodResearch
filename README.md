@@ -62,18 +62,18 @@ This article uses grocery store data and medical prescriptions to analyze the im
 
 ## Tags
 
-#### ML
+#### <a name='ML'></a> ML
 
 [\[2\]](#2)
-#### Obesity
+#### <a name='Obesity'></a> Obesity
 
 [\[1\]](#1), [\[2\]](#2)
-#### Grocery
+#### <a name='Grocery'></a> Grocery
 
 [\[2\]](#2)
-#### Eating
+#### <a name='Eating'></a> Eating
 
 [\[1\]](#1)
-#### Portion
+#### <a name='Portion'></a> Portion
 
 [\[1\]](#1)

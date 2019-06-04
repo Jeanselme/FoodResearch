@@ -43,7 +43,7 @@ def generate_readme():
         # Tags
         readme.write("\n## Tags\n\n")
         for tag in tags:
-            readme.writelines("#### {}\n\n".format(tag))
+            readme.writelines("#### <a name='{}'></a> {}\n\n".format(tag, tag))
             readme.writelines(', '.join(["[\[{}\]](#{})".format(ind, ind) for ind in tags[tag]]) + '\n')
 
         update_index()
