@@ -59,8 +59,8 @@ def from_bib_to_markdown(bib, ind):
         Returns:
             Markdown text
     """
-    markdown = "### <a name='{}'></a> \[{}\] [{}]({})\n".format(ind, ind, bib["title"], bib["url"])
-    markdown += "by {}\nin {}\n\n".format(bib["author"], bib["year"])
+    markdown = "### <a name='{}'></a> \[{}\] [{}]({}) \n\n".format(ind, ind, bib["title"], bib["url"])
+    markdown += "by {}\n in {}\n\n".format(bib["author"], bib["year"])
     markdown += "#### Abstract\n"
     markdown += "> {}\n\n".format(bib["abstract"].replace('\n', '\n>'))
     return markdown
@@ -77,7 +77,7 @@ def from_notes_to_markdown(notes, ind):
             markdown, datasets: mardown text and list of datasets linked to the article
     """
     global tags
-    markdown = ""
+    markdown = "<details>\n<summary>Notes</summary>\n\n"
     for cat in [nf for nf in note_format if nf in notes]:
         markdown += "#### {}\n".format(cat)
         if isinstance(notes[cat], list):
@@ -97,7 +97,7 @@ def from_notes_to_markdown(notes, ind):
             else:
                 tags[tag] = [ind]
 
-    markdown += "\n\n" 
+    markdown += "</details>\n\n" 
     return markdown
 
 def website_to_markdown(text):
