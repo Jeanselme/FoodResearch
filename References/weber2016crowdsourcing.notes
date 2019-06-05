@@ -1,0 +1,5 @@
+{
+	"Summary": "This article asks a crowdsource to evaluate if twitter users are overweighted based on their profile picture.",
+	"Limitations": ["No ground truth", "Only 3 persons who evaluates and conclusion made on their consensus correlated to the number of obese in different counties", "Models should be built to predict the label obtained", "Vocabulary used in the tweet should be studied in a discriminative fashiion, to evaluate what is characteristic of each group."],
+	"Tags": ["Obesity", "Twitter", "CrowdSource"]
+}
