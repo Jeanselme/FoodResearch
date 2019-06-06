@@ -3,5 +3,5 @@
 	"Conclusions": ["Socio economic conditons impacts less than nutritions", "Eating less and diverse nutrients is linked to better health conditions", "Calorie concentration is more important than calorie consumption"],
 	"Limitations": ["Selection bias: population are limited to a grocery and only people with loyalty card are concerned", "No causal explanation"],
 	"Website": "http://goodcitylife.org/food/project.php",
-	"Tags": ["Obesity", "Grocery", "ML"]
+	"Tags": ["Obesity", "Grocery", "ML", "England"]
 }

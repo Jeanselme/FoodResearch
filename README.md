@@ -29,10 +29,48 @@ This article uses grocery store data and medical prescriptions to analyze the im
 [http://goodcitylife.org/food/project.php](http://goodcitylife.org/food/project.php)
 
 #### Tags
-[\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) 
+[\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) [\#England](#England) 
 </details>
 
-### <a name='2'></a> \[2\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='2'></a> \[2\] [The Spread of Obesity in a Large Social Network over 32 Years](https://doi.org/10.1056/NEJMsa066082) 
+
+by Christakis, Nicholas A. and Fowler, James H.
+ in 2007
+
+#### Abstract
+> BACKGROUND
+>The prevalence of obesity has increased substantially over the past 30 years. We performed a quantitative analysis of the nature and extent of the person-to-person spread of obesity as a possible factor contributing to the obesity epidemic.
+>
+>METHODS
+>We evaluated a densely interconnected social network of 12,067 people assessed repeatedly from 1971 to 2003 as part of the Framingham Heart Study. The body-mass index was available for all subjects. We used longitudinal statistical models to examine whether weight gain in one person was associated with weight gain in his or her friends, siblings, spouse, and neighbors.
+>
+>RESULTS
+>Discernible clusters of obese persons (body-mass index [the weight in kilograms divided by the square of the height in meters], >=30) were present in the network at all time points, and the clusters extended to three degrees of separation. These clusters did not appear to be solely attributable to the selective formation of social ties among obese persons. A person's chances of becoming obese increased by 57% (95% confidence interval [CI], 6 to 123) if he or she had a friend who became obese in a given interval. Among pairs of adult siblings, if one sibling became obese, the chance that the other would become obese increased by 40% (95% CI, 21 to 60). If one spouse became obese, the likelihood that the other spouse would become obese increased by 37% (95% CI, 7 to 73). These effects were not seen among neighbors in the immediate geographic location. Persons of the same sex had relatively greater influence on each other than those of the opposite sex. The spread of smoking cessation did not account for the spread of obesity in the network.
+>
+>CONCLUSIONS
+>Network phenomena appear to be relevant to the biologic and behavioral trait of obesity, and obesity appears to spread through social ties. These findings have implications for clinical and public health interventions.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyses the spread of obesity through the relations network.
+
+#### Conclusions
+- Significant increase of obesity if friends or siblings became obese (3 degree)
+- Social link more important than geographical distance
+
+#### Limitations
+- Is there a selection bias from the population selected (only from Framingham Offspring Study - How have they been chosen ? Location, Class ...)
+- Is there an impact if people are more obses (not taking obese as a binary but take the value of BMI into account)
+- Is the density of the network impacting the gain of weight ?
+- Is the opposite also true ?
+
+#### Tags
+[\#Obesity](#Obesity) [\#Network](#Network) [\#USA](#USA) 
+</details>
+
+### <a name='3'></a> \[3\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -54,7 +92,7 @@ by Wansink, Brian and Van Ittersum, Koert and Painter, James E
 <summary>Notes</summary>
 
 #### Summary
-This article show the impact of plate and ustensils size on the food consumption.
+This article shows the impact of plate and ustensils size on the food consumption.
 
 #### Conclusions
 - Larger is the plate, more people eat
@@ -66,24 +104,64 @@ This article show the impact of plate and ustensils size on the food consumption
 - Is the impact opposite for anorexic or obese patients ?
 
 #### Tags
-[\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) 
+[\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
+</details>
+
+### <a name='4'></a> \[4\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+
+by Weber, Ingmar and Mejova, Yelena
+ in 2016
+
+#### Abstract
+> To use social media for health-related analysis, one key step is the detection of health-related labels for users. But unlike transient conditions like flu, social media users are less vocal about chronic conditions such as obesity, as users might not tweet ``I'm still overweight''. As, however, obesity-related conditions such as diabetes, heart disease, osteoarthritis, and even cancer are on the rise, this obese-or-not label could be one of the most useful for studies in public health.
+>In this paper we investigate the feasibility of using profile pictures to infer if a user is overweight or not. We show that this is indeed possible and further show that the fraction of labeled-as-overweight users is higher in U.S. counties with higher obesity rates. Going from public to individual health analysis, we then find differences both in behavior and social networks, for example finding users labeled as overweight to have fewer followers.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article asks a crowdsource to evaluate if twitter users are overweighted based on their profile picture.
+
+#### Limitations
+- No ground truth
+- Only 3 persons who evaluates and conclusion made on their consensus correlated to the number of obese in different counties
+- Models should be built to predict the label obtained
+- Vocabulary used in the tweet should be studied in a discriminative fashiion, to evaluate what is characteristic of each group.
+
+#### Tags
+[\#Obesity](#Obesity) [\#Twitter](#Twitter) [\#CrowdSource](#CrowdSource) 
 </details>
 
 
 ## Tags
 
+#### <a name='CrowdSource'></a> CrowdSource
+
+[\[4\]](#4)
 #### <a name='Eating'></a> Eating
 
-[\[2\]](#2)
+[\[3\]](#3)
+#### <a name='England'></a> England
+
+[\[1\]](#1)
 #### <a name='Grocery'></a> Grocery
 
 [\[1\]](#1)
 #### <a name='ML'></a> ML
 
 [\[1\]](#1)
-#### <a name='Obesity'></a> Obesity
-
-[\[1\]](#1), [\[2\]](#2)
-#### <a name='Portion'></a> Portion
+#### <a name='Network'></a> Network
 
 [\[2\]](#2)
+#### <a name='Obesity'></a> Obesity
+
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4)
+#### <a name='Portion'></a> Portion
+
+[\[3\]](#3)
+#### <a name='Twitter'></a> Twitter
+
+[\[4\]](#4)
+#### <a name='USA'></a> USA
+
+[\[2\]](#2), [\[3\]](#3)

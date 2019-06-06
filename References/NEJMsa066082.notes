@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the spread of obesity through the relations network.",
+	"Conclusions": ["Significant increase of obesity if friends or siblings became obese (3 degree)", "Social link more important than geographical distance"],
+	"Limitations": ["Is there a selection bias from the population selected (only from Framingham Offspring Study - How have they been chosen ? Location, Class ...)", "Is there an impact if people are more obses (not taking obese as a binary but take the value of BMI into account)", "Is the density of the network impacting the gain of weight ?", "Is the opposite also true ?"],
+	"Tags": ["Obesity", "Network", "USA"]
+}
