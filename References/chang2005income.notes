@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the evolution of obesity and BMI from 1971 to 2002 given sex, racial and poverty information.",
+	"Conclusions": ["Significant increase of obesity overall", "Gender and races impacts the evolution (women have a negative gradient between income and IBM, more or less significant given race; black men have a strong positive gradient, where other men have non significant trends)", "Obesity is not consistently higher in the poor", "Sex and race impacts suggest that income is not the only factor impacting weight"],
+	"Limitations": ["A measure of correlation through time could avoid to stratified in three different periods of time."],
+	"Tags": ["Obesity", "Poverty", "USA"]
+}

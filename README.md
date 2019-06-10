@@ -70,7 +70,44 @@ This article analyses the spread of obesity through the relations network.
 [\#Obesity](#Obesity) [\#Network](#Network) [\#USA](#USA) 
 </details>
 
-### <a name='3'></a> \[3\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='3'></a> \[3\] [Income disparities in body mass index and obesity in the United States, 1971-2002](https://www.ncbi.nlm.nih.gov/pubmed/16217002) 
+
+by Chang, Virginia W and Lauderdale, Diane S
+ in 2005
+
+#### Abstract
+> BACKGROUND:
+>Although obesity is frequently associated with poverty, recent increases in obesity may not occur disproportionately among the poor. Furthermore, the relationship between income and weight status may be changing with time.
+>
+>METHODS:
+>We use nationally representative data from the National Health and Nutrition Examination Surveys (1971-2002) to examine (1) income differentials in body mass index (calculated as weight in kilograms divided by the square of height in meters) and (2) change over time in the prevalence of obesity (body mass index, >or=30) at different levels of income.
+>
+>RESULTS:
+>Over the course of 3 decades, obesity has increased at all levels of income. Moreover, it is typically not the poor who have experienced the largest gains. For example, among black women, the absolute increase in obesity is 27.0% (1.05% per year) for those at middle incomes, but only 14.5% (0.54% per year) for the poor. Among black men, the increase in obesity is 21.1% (0.77% per year) for those at the highest level of income, but only 4.5% (0.06% per year) for the near poor and 5.4% (0.50% per year) for the poor. Furthermore, all race-sex groups show income differentials on body mass index, but patterns show substantial variation between groups and consistency and change within groups over time. For example, white women consistently show a strong inverse gradient, while a positive gradient emerges in later waves for black and Mexican American men.
+>
+>CONCLUSION:
+>The persistence and emergence of income gradients suggests that disparities in weight status are only partially attributable to poverty and that efforts aimed at reducing disparities need to consider a much broader array of contributing factors.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyses the evolution of obesity and BMI from 1971 to 2002 given sex, racial and poverty information.
+
+#### Conclusions
+- Significant increase of obesity overall
+- Gender and races impacts the evolution (women have a negative gradient between income and IBM, more or less significant given race; black men have a strong positive gradient, where other men have non significant trends)
+- Obesity is not consistently higher in the poor
+- Sex and race impacts suggest that income is not the only factor impacting weight
+
+#### Limitations
+- A measure of correlation through time could avoid to stratified in three different periods of time.
+
+#### Tags
+[\#Obesity](#Obesity) [\#Poverty](#Poverty) [\#USA](#USA) 
+</details>
+
+### <a name='4'></a> \[4\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -96,7 +133,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='4'></a> \[4\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='5'></a> \[5\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -133,7 +170,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='5'></a> \[5\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='6'></a> \[6\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -163,10 +200,10 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[5\]](#5)
+[\[6\]](#6)
 #### <a name='Eating'></a> Eating
 
-[\[4\]](#4)
+[\[5\]](#5)
 #### <a name='England'></a> England
 
 [\[1\]](#1)
@@ -178,19 +215,22 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\[1\]](#1)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[3\]](#3)
+[\[4\]](#4)
 #### <a name='Network'></a> Network
 
 [\[2\]](#2)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[6\]](#6)
 #### <a name='Portion'></a> Portion
 
-[\[4\]](#4)
+[\[5\]](#5)
+#### <a name='Poverty'></a> Poverty
+
+[\[3\]](#3)
 #### <a name='Twitter'></a> Twitter
 
-[\[5\]](#5)
+[\[6\]](#6)
 #### <a name='USA'></a> USA
 
-[\[2\]](#2), [\[4\]](#4)
+[\[2\]](#2), [\[3\]](#3), [\[5\]](#5)
