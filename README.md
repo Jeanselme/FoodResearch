@@ -107,7 +107,33 @@ This article analyses the evolution of obesity and BMI from 1971 to 2002 given s
 [\#Obesity](#Obesity) [\#Poverty](#Poverty) [\#USA](#USA) 
 </details>
 
-### <a name='4'></a> \[4\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='4'></a> \[4\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
+
+by Mejova, Yelena and Haddadi, Hamed and Noulas, Anastasios and Weber, Ingmar
+ in 2015
+
+#### Abstract
+> We present a large-scale analysis of Instagram pictures taken at 164,753 restaurants by millions of users. Motivated by the obesity epidemic in the United States, our aim is three-fold: (i) to assess the relationship between fast food and chain restaurants and obesity, (ii) to better understand people's thoughts on and perceptions of their daily dining experiences, and (iii) to reveal the nature of social reinforcement and approval in the context of dietary health on social media. When we correlate the prominence of fast food restaurants in US counties with obesity, we find the Foursquare data to show a greater correlation at 0.424 than official survey data from the County Health Rankings would show. Our analysis further reveals a relationship between small businesses and local foods with better dietary health, with such restaurants getting more attention in areas of lower obesity. However, even in such areas, social approval favors the unhealthy foods high in sugar, with donut shops producing the most liked photos. Thus, the dietary landscape our study reveals is a complex ecosystem, with fast food playing a role alongside social interactions and personal perceptions, which often may be at odds.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyses the relationship beteen the number of fast food restaurants and the obesity level in US counties.
+
+#### Conclusions
+- Strong correlation
+
+#### Limitations
+- Make link between number of comment and social approval without regard to the population size of those counties (it is shown that more obese areas have less comment and likes)
+- An interesting remark is that social network is a bias selection in the sense that mainly young and tech oriented perople will tend to use it (also people tends to show only what they consider positive)
+- It would be interesting to split the emotioin category associated to the comment into postive and negative
+
+#### Tags
+[\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#USA](#USA) 
+</details>
+
+### <a name='5'></a> \[5\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -133,7 +159,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='5'></a> \[5\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='6'></a> \[6\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -170,7 +196,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='6'></a> \[6\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='7'></a> \[7\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -192,7 +218,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 - Vocabulary used in the tweet should be studied in a discriminative fashiion, to evaluate what is characteristic of each group.
 
 #### Tags
-[\#Obesity](#Obesity) [\#Twitter](#Twitter) [\#CrowdSource](#CrowdSource) 
+[\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
 
@@ -200,10 +226,10 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[6\]](#6)
+[\[7\]](#7)
 #### <a name='Eating'></a> Eating
 
-[\[5\]](#5)
+[\[6\]](#6)
 #### <a name='England'></a> England
 
 [\[1\]](#1)
@@ -215,22 +241,22 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\[1\]](#1)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[4\]](#4)
+[\[5\]](#5)
 #### <a name='Network'></a> Network
 
 [\[2\]](#2)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[6\]](#6)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[6\]](#6), [\[7\]](#7)
 #### <a name='Portion'></a> Portion
 
-[\[5\]](#5)
+[\[6\]](#6)
 #### <a name='Poverty'></a> Poverty
 
 [\[3\]](#3)
-#### <a name='Twitter'></a> Twitter
+#### <a name='Social Network'></a> Social Network
 
-[\[6\]](#6)
+[\[4\]](#4), [\[7\]](#7)
 #### <a name='USA'></a> USA
 
-[\[2\]](#2), [\[3\]](#3), [\[5\]](#5)
+[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6)

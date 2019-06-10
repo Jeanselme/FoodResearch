@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the relationship beteen the number of fast food restaurants and the obesity level in US counties.",
+	"Conclusions": ["Strong correlation"],
+	"Limitations": ["Make link between number of comment and social approval without regard to the population size of those counties (it is shown that more obese areas have less comment and likes)", "An interesting remark is that social network is a bias selection in the sense that mainly young and tech oriented perople will tend to use it (also people tends to show only what they consider positive)", "It would be interesting to split the emotioin category associated to the comment into postive and negative"],
+	"Tags": ["Obesity", "Social Network", "USA"]
+}
