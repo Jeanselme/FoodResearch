@@ -70,7 +70,33 @@ This article analyses the spread of obesity through the relations network.
 [\#Obesity](#Obesity) [\#Network](#Network) [\#USA](#USA) 
 </details>
 
-### <a name='3'></a> \[3\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='3'></a> \[3\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+
+by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
+ in 2006
+
+#### Abstract
+> The worldwide obesity epidemic is stimulating efforts to identify host and environmental factors that affect energy balance. Comparisons of the distal gut microbiota of genetically obese mice and their lean littermates, as well as those of obese and lean human volunteers have revealed that obesity is associated with changes in the relative abundance of the two dominant bacterial divisions, the Bacteroidetes and the Firmicutes. Here we demonstrate through metagenomic and biochemical analyses that these changes affect the metabolic potential of the mouse gut microbiota. Our results indicate that the obese microbiome has an increased capacity to harvest energy from the diet. Furthermore, this trait is transmissible: colonization of germ-free mice with an 'obese microbiota' results in a significantly greater increase in total body fat than colonization with a 'lean microbiota'. These results identify the gut microbiota as an additional contributing factor to the pathophysiology of obesity.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article shows the impact of microbiome composition on calories absorption.
+
+#### Conclusions
+Obese microbiome has an increased capacity for energy harvest from similar diet.
+
+#### Limitations
+- Study done on 8 mice on a period of 14 days. Is the microbiome adapting on a longer period of time ?
+- Are those results appliable to humans ?
+- What would originally create this difference in microbiome ?
+
+#### Tags
+[\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
+</details>
+
+### <a name='4'></a> \[4\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -107,7 +133,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='4'></a> \[4\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='5'></a> \[5\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -137,10 +163,10 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[4\]](#4)
+[\[5\]](#5)
 #### <a name='Eating'></a> Eating
 
-[\[3\]](#3)
+[\[4\]](#4)
 #### <a name='England'></a> England
 
 [\[1\]](#1)
@@ -150,18 +176,21 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 #### <a name='ML'></a> ML
 
 [\[1\]](#1)
+#### <a name='Mircrobiome'></a> Mircrobiome
+
+[\[3\]](#3)
 #### <a name='Network'></a> Network
 
 [\[2\]](#2)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5)
 #### <a name='Portion'></a> Portion
 
-[\[3\]](#3)
+[\[4\]](#4)
 #### <a name='Twitter'></a> Twitter
 
-[\[4\]](#4)
+[\[5\]](#5)
 #### <a name='USA'></a> USA
 
-[\[2\]](#2), [\[3\]](#3)
+[\[2\]](#2), [\[4\]](#4)
