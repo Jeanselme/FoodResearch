@@ -159,7 +159,45 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='6'></a> \[6\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='6'></a> \[6\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+
+by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
+ in 2014
+
+#### Abstract
+> OBJECTIVES:
+>There is a relationship between emotional disorders, obesity, and craving for carbohydrates. This relationship complicates the success of treatments aimed at combatting obesity, which is considered to be the epidemic of the twenty-first century. We conducted a review of the neurobiologic basis for carbohydrate craving, with the hope that this understanding will enable the design of more efficient therapeutic strategies.
+>
+>METHOD:
+>We conducted a non-systematic literature search in PubMed using MeSH.
+>
+>RESULTS:
+>Research on the basis of carbohydrate craving is varied, but may be grouped into five main areas: the serotonergic system, palatability and hedonic response, the motivational system, stress response systems, and gene-environment interaction.
+>
+>CONCLUSIONS:
+>The models that integrate motivational systems with palatability and hedonic response studies are the ones that we believe can best explain both craving for carbohydrates and related addictive phenomena. Research has contributed to a greater understanding of the neurobiologic basis of carbohydrate craving. The latter, in turn, contributes to an understanding of the implications, challenges, and possible therapies that might be put in place to cope with this phenomenon.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article reviews different explanations for carbs craving.
+
+#### Conclusions
+- Serotoninc: Carbo => Increase Trp => Increase Serotonine => Happier. If true, could be corrected by using serotonine related medications (rejected because observed effect is direct and the process involving serotonine should be slower)
+- Palatability and hedonic response: Perception of sweet taste implies an opioid response. Could be corrected by drugs on opioid receptor
+- Motivational system: Imporves mood by dopamine increase but can lead to a dependence. Should be treated as a drug
+- Stress response: Reduce stress
+- Gene environment: Behavior learnt from inadequate parenting or inability to distinguish hunger from other internal states.
+
+#### Limitations
+- No microbiome analysis is reviewed
+
+#### Tags
+[\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
+</details>
+
+### <a name='7'></a> \[7\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -196,7 +234,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='7'></a> \[7\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='8'></a> \[8\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -226,10 +264,10 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[7\]](#7)
+[\[8\]](#8)
 #### <a name='Eating'></a> Eating
 
-[\[6\]](#6)
+[\[6\]](#6), [\[7\]](#7)
 #### <a name='England'></a> England
 
 [\[1\]](#1)
@@ -245,18 +283,21 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 #### <a name='Network'></a> Network
 
 [\[2\]](#2)
-#### <a name='Obesity'></a> Obesity
-
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[6\]](#6), [\[7\]](#7)
-#### <a name='Portion'></a> Portion
+#### <a name='Neurobio'></a> Neurobio
 
 [\[6\]](#6)
+#### <a name='Obesity'></a> Obesity
+
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[7\]](#7), [\[8\]](#8)
+#### <a name='Portion'></a> Portion
+
+[\[6\]](#6), [\[7\]](#7)
 #### <a name='Poverty'></a> Poverty
 
 [\[3\]](#3)
 #### <a name='Social Network'></a> Social Network
 
-[\[4\]](#4), [\[7\]](#7)
+[\[4\]](#4), [\[8\]](#8)
 #### <a name='USA'></a> USA
 
-[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6)
+[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7)

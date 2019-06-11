@@ -1,0 +1,10 @@
+{
+	"Summary": "This article reviews different explanations for carbs craving.",
+	"Conclusions": ["Serotoninc: Carbo => Increase Trp => Increase Serotonine => Happier. If true, could be corrected by using serotonine related medications (rejected because observed effect is direct and the process involving serotonine should be slower)",
+		 "Palatability and hedonic response: Perception of sweet taste implies an opioid response. Could be corrected by drugs on opioid receptor",
+		 "Motivational system: Imporves mood by dopamine increase but can lead to a dependence. Should be treated as a drug",
+		 "Stress response: Reduce stress",
+		 "Gene environment: Behavior learnt from inadequate parenting or inability to distinguish hunger from other internal states."],
+	"Limitations": ["No microbiome analysis is reviewed"],
+	"Tags": ["Neurobio", "Portion", "Eating"]
+}
