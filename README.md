@@ -133,7 +133,32 @@ This article analyses the relationship beteen the number of fast food restaurant
 [\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#USA](#USA) 
 </details>
 
-### <a name='5'></a> \[5\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='5'></a> \[5\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
+
+by Thiago H Silva and Pedro O S Vaz de Melo and Jussara Almeida and Mirco Musolesi and Antonio Loureiro
+ in 2014
+
+#### Abstract
+> Food and drink are two of the most basic needs of human beings. However, as society evolved, food and drink became also a strong cultural aspect, being able to describe strong differences among people. Traditional methods used to analyze cross-cultural differences are mainly based on surveys and, for this reason, they are very difficult to represent a significant statistical sample at a global scale. In this paper, we propose a new methodology to identify cultural boundaries and similarities across populations at different scales based on the analysis of Foursquare check-ins. This approach might be useful not only for economic purposes, but also to support existing and novel marketing and social applications. Our methodology consists of the following steps. First, we map food and drink related check-ins extracted from Foursquare into users' cultural preferences. Second, we identify particular individual preferences, such as the taste for a certain type of food or drink, e.g., pizza or sake, as well as temporal habits, such as the time and day of the week when an individual goes to a restaurant or a bar. Third, we show how to analyze this information to assess the cultural distance between two countries, cities or even areas of a city. Fourth, we apply a simple clustering technique, using this cultural distance measure, to draw cultural boundaries across countries, cities and regions.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyses the food habits by analyzing social network. It looks at user similarity, region similarity and anlyze temporal patterns.
+
+#### Conclusions
+Cultural differences can be observed using food related information.
+
+#### Limitations
+- Limits of social network reflecting a subpart od the population.
+- More demographics about users should be gathered
+
+#### Tags
+[\#Eating](#Eating) [\#Social Network](#Social Network) 
+</details>
+
+### <a name='6'></a> \[6\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -159,7 +184,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='6'></a> \[6\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='7'></a> \[7\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -197,7 +222,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='7'></a> \[7\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='8'></a> \[8\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -234,7 +259,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='8'></a> \[8\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='9'></a> \[9\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -264,10 +289,10 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[8\]](#8)
+[\[9\]](#9)
 #### <a name='Eating'></a> Eating
 
-[\[6\]](#6), [\[7\]](#7)
+[\[5\]](#5), [\[7\]](#7), [\[8\]](#8)
 #### <a name='England'></a> England
 
 [\[1\]](#1)
@@ -279,25 +304,25 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\[1\]](#1)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[5\]](#5)
+[\[6\]](#6)
 #### <a name='Network'></a> Network
 
 [\[2\]](#2)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[6\]](#6)
+[\[7\]](#7)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[7\]](#7), [\[8\]](#8)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9)
 #### <a name='Portion'></a> Portion
 
-[\[6\]](#6), [\[7\]](#7)
+[\[7\]](#7), [\[8\]](#8)
 #### <a name='Poverty'></a> Poverty
 
 [\[3\]](#3)
 #### <a name='Social Network'></a> Social Network
 
-[\[4\]](#4), [\[8\]](#8)
+[\[4\]](#4), [\[5\]](#5), [\[9\]](#9)
 #### <a name='USA'></a> USA
 
-[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7)
+[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[8\]](#8)

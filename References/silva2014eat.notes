@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the food habits by analyzing social network. It looks at user similarity, region similarity and anlyze temporal patterns.",
+	"Conclusions": "Cultural differences can be observed using food related information.",
+	"Limitations": ["Limits of social network reflecting a subpart od the population.", "More demographics about users should be gathered"],
+	"Tags": ["Eating", "Social Network"]
+}
