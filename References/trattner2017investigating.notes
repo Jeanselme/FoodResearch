@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the recipes from AllRecipes from a helthiness point of view. It also shows the preferences of user and how to adapt the recommendations to encourage healthy eating.",
+	"Conclusions": "Users prefer unhealthy recipes. Recommender should weight their recommendations given the health index.",
+	"Limitations": ["Study done on AllRecipes which is used mainly by Americans, are the conclusions generalizable ?", "Healthiness is defined by the standard convention (which has changed a lot during the past year), an adaptable definition would be more interesting: how to integrate microbiome studies to make adapted recommender systems ?", "Are the likes and comments a real reflect of what people consumes ?"],
+	"Tags": ["Eating", "Recommender", "Social Network", "USA"]
+}

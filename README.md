@@ -158,7 +158,33 @@ Cultural differences can be observed using food related information.
 [\#Eating](#Eating) [\#Social Network](#Social Network) 
 </details>
 
-### <a name='6'></a> \[6\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='6'></a> \[6\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
+
+by Trattner, Christoph and Elsweiler, David
+ in 2017
+
+#### Abstract
+> Food recommenders have the potential to positively influence the eating habits of users. To achieve this, however, we need to understand how healthy recommendations are and the factors which influence this. Focusing on two approaches from the literature (single item and daily meal plan recommendation) and utilizing a large Internet sourced dataset from Allrecipes.com, we show how algorithmic solutions relate to the healthiness of the underlying recipe collection. First, we analyze the healthiness of Allrecipes.com recipes using nutritional standards from the World Health Organisation and the United Kingdom Food Standards Agency. Second, we investigate user interaction patterns and how these relate to the healthiness of recipes. Third, we experiment with both recommendation approaches. Our results indicate that overall the recipes in the collection are quite unhealthy, but this varies across categories on the website. Users in general tend to interact most often with the least healthy recipes. Recommender algorithms tend to score popular items highly and thus on average promote unhealthy items. This can be tempered, however, with simple post-filtering approaches, which we show by experiment are better suited to some algorithms than others. Similarly, we show that the generation of meal plans can dramatically increase the number of healthy options open to users. One of the main findings is, nevertheless, that the utility of both approaches is strongly restricted by the recipe collection. Based on our findings we draw conclusions how researchers should attempt to make food recommendation systems promote healthy nutrition.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyses the recipes from AllRecipes from a helthiness point of view. It also shows the preferences of user and how to adapt the recommendations to encourage healthy eating.
+
+#### Conclusions
+Users prefer unhealthy recipes. Recommender should weight their recommendations given the health index.
+
+#### Limitations
+- Study done on AllRecipes which is used mainly by Americans, are the conclusions generalizable ?
+- Healthiness is defined by the standard convention (which has changed a lot during the past year), an adaptable definition would be more interesting: how to integrate microbiome studies to make adapted recommender systems ?
+- Are the likes and comments a real reflect of what people consumes ?
+
+#### Tags
+[\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social Network) [\#USA](#USA) 
+</details>
+
+### <a name='7'></a> \[7\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -184,7 +210,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='7'></a> \[7\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='8'></a> \[8\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -222,7 +248,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='8'></a> \[8\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='9'></a> \[9\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -259,7 +285,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='9'></a> \[9\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='10'></a> \[10\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -289,10 +315,10 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[9\]](#9)
+[\[10\]](#10)
 #### <a name='Eating'></a> Eating
 
-[\[5\]](#5), [\[7\]](#7), [\[8\]](#8)
+[\[5\]](#5), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9)
 #### <a name='England'></a> England
 
 [\[1\]](#1)
@@ -304,25 +330,28 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\[1\]](#1)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[6\]](#6)
+[\[7\]](#7)
 #### <a name='Network'></a> Network
 
 [\[2\]](#2)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[7\]](#7)
+[\[8\]](#8)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[9\]](#9), [\[10\]](#10)
 #### <a name='Portion'></a> Portion
 
-[\[7\]](#7), [\[8\]](#8)
+[\[8\]](#8), [\[9\]](#9)
 #### <a name='Poverty'></a> Poverty
 
 [\[3\]](#3)
+#### <a name='Recommender'></a> Recommender
+
+[\[6\]](#6)
 #### <a name='Social Network'></a> Social Network
 
-[\[4\]](#4), [\[5\]](#5), [\[9\]](#9)
+[\[4\]](#4), [\[5\]](#5), [\[6\]](#6), [\[10\]](#10)
 #### <a name='USA'></a> USA
 
-[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[8\]](#8)
+[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[9\]](#9)
