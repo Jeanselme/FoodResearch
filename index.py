@@ -43,7 +43,7 @@ def generate_readme():
         # Tags
         readme.write("\n## Tags\n\n")
         for tag in sorted(tags):
-            readme.writelines("#### <a name='{}'></a> {}\n\n".format(tag, tag))
+            readme.writelines("#### <a name='{}'></a> {}\n\n".format('_'.join(tag.split()), tag))
             readme.writelines(', '.join(["[\[{}\]](#{})".format(ind, ind) for ind in tags[tag]]) + '\n')
 
         update_index()
@@ -90,7 +90,7 @@ def from_notes_to_markdown(notes, ind):
     if "Tags" in notes:
         markdown += "#### Tags\n"
         for tag in notes["Tags"]:
-            markdown += "[\#{}](#{}) ".format(tag, tag)
+            markdown += "[\#{}](#{}) ".format(tag, '_'.join(tag.split()))
 
             if tag in tags:
                 tags[tag].append(ind)
