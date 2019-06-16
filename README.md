@@ -2,7 +2,37 @@
 
 ## Articles
 
-### <a name='1'></a> \[1\] [Large-scale and high-resolution analysis of food purchases and health outcomes](https://doi.org/10.1140/epjds/s13688-019-0191-y) 
+### <a name='1'></a> \[1\] [You Tweet What You Eat](http://dx.doi.org/10.1145/2702123.2702153) 
+
+by Abbar, Sofiane and Mejova, Yelena and Weber, Ingmar
+ in 2015
+
+#### Abstract
+> Food is an integral part of our lives, cultures, and well-being, and is of major interest to public health. The collection of daily nutritional data involves keeping detailed diaries or periodic surveys and is limited in scope and reach. Alternatively, social media is infamous for allowing its users to update the world on the minutiae of their daily lives, including their eating habits. In this work we examine the potential of Twitter to provide insight into US-wide dietary choices by linking the tweeted dining experiences of 210K users to their interests, demographics, and social networks. We validate our approach by relating the caloric values of the foods mentioned in the tweets to the state-wide obesity rates, achieving a Pearson correlation of 0.77 across the 50 US states and the District of Columbia. We then build a model to predict county-wide obesity and diabetes statistics based on a combination of demographic variables and food names mentioned on Twitter. Our results show significant improvement over previous CHI research (Culotta'14). We further link this data to societal and economic factors, such as education and income, illustrating that, for example, areas with higher education levels tweet about food that is significantly less caloric. Finally, we address the somewhat controversial issue of the social nature of obesity (first raised by Christakis & Fowler in 2007) by inducing two social networks using mentions and reciprocal following relationships.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article shows the correlation between content of tweets and obeity by county. From it it produces a model that produces a risk of obseity for each individual allowing the anlyasis of interest of high risk people. It finally explores the network of friends to see the spread of obesity thourh network.
+
+#### Conclusions
+- Strong correlation between food mentioned in tweets but also calories
+- Demographic such as education and income have also a strong impact (even if only the mean by area is considered)
+- People showing an interest in cooking have a lower risk in obesity
+- High correlation with watching TV
+- Friends are more likely to present a similar relation to food
+
+#### Limitations
+- Usual limitations of tweet: is it really reflective of habits (weekly in this dataset), selection bias, difference of tweets behavior given region
+- Use #problemoffat is perhaps not nly used by obese people
+- Use of model based on mean to predict personal risk: the use of image recognition to estimate the weight could enhance results)
+
+#### Tags
+[\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#USA](#USA) 
+</details>
+
+### <a name='2'></a> \[2\] [Large-scale and high-resolution analysis of food purchases and health outcomes](https://doi.org/10.1140/epjds/s13688-019-0191-y) 
 
 by Aiello, Luca Maria and Schifanella, Rossano and Quercia, Daniele and Del Prete, Lucia
  in 2019
@@ -32,7 +62,7 @@ This article uses grocery store data and medical prescriptions to analyze the im
 [\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) [\#England](#England) 
 </details>
 
-### <a name='2'></a> \[2\] [The Spread of Obesity in a Large Social Network over 32 Years](https://doi.org/10.1056/NEJMsa066082) 
+### <a name='3'></a> \[3\] [The Spread of Obesity in a Large Social Network over 32 Years](https://doi.org/10.1056/NEJMsa066082) 
 
 by Christakis, Nicholas A. and Fowler, James H.
  in 2007
@@ -70,7 +100,7 @@ This article analyses the spread of obesity through the relations network.
 [\#Obesity](#Obesity) [\#Network](#Network) [\#USA](#USA) 
 </details>
 
-### <a name='3'></a> \[3\] [Income disparities in body mass index and obesity in the United States, 1971-2002](https://www.ncbi.nlm.nih.gov/pubmed/16217002) 
+### <a name='4'></a> \[4\] [Income disparities in body mass index and obesity in the United States, 1971-2002](https://www.ncbi.nlm.nih.gov/pubmed/16217002) 
 
 by Chang, Virginia W and Lauderdale, Diane S
  in 2005
@@ -107,7 +137,7 @@ This article analyses the evolution of obesity and BMI from 1971 to 2002 given s
 [\#Obesity](#Obesity) [\#Poverty](#Poverty) [\#USA](#USA) 
 </details>
 
-### <a name='4'></a> \[4\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
+### <a name='5'></a> \[5\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
 
 by Mejova, Yelena and Haddadi, Hamed and Noulas, Anastasios and Weber, Ingmar
  in 2015
@@ -133,7 +163,7 @@ This article analyses the relationship beteen the number of fast food restaurant
 [\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#USA](#USA) 
 </details>
 
-### <a name='5'></a> \[5\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
+### <a name='6'></a> \[6\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
 
 by Thiago H Silva and Pedro O S Vaz de Melo and Jussara Almeida and Mirco Musolesi and Antonio Loureiro
  in 2014
@@ -158,7 +188,7 @@ Cultural differences can be observed using food related information.
 [\#Eating](#Eating) [\#Social Network](#Social Network) 
 </details>
 
-### <a name='6'></a> \[6\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
+### <a name='7'></a> \[7\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
 
 by Trattner, Christoph and Elsweiler, David
  in 2017
@@ -184,7 +214,7 @@ Users prefer unhealthy recipes. Recommender should weight their recommendations 
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social Network) [\#USA](#USA) 
 </details>
 
-### <a name='7'></a> \[7\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='8'></a> \[8\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -210,7 +240,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='8'></a> \[8\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='9'></a> \[9\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -248,7 +278,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='9'></a> \[9\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='10'></a> \[10\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -285,7 +315,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='10'></a> \[10\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='11'></a> \[11\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -315,43 +345,43 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[10\]](#10)
+[\[11\]](#11)
 #### <a name='Eating'></a> Eating
 
-[\[5\]](#5), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9)
+[\[6\]](#6), [\[7\]](#7), [\[9\]](#9), [\[10\]](#10)
 #### <a name='England'></a> England
 
-[\[1\]](#1)
+[\[2\]](#2)
 #### <a name='Grocery'></a> Grocery
 
-[\[1\]](#1)
+[\[2\]](#2)
 #### <a name='ML'></a> ML
 
-[\[1\]](#1)
+[\[2\]](#2)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[7\]](#7)
+[\[8\]](#8)
 #### <a name='Network'></a> Network
 
-[\[2\]](#2)
+[\[3\]](#3)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[8\]](#8)
+[\[9\]](#9)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[9\]](#9), [\[10\]](#10)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[8\]](#8), [\[10\]](#10), [\[11\]](#11)
 #### <a name='Portion'></a> Portion
 
-[\[8\]](#8), [\[9\]](#9)
+[\[9\]](#9), [\[10\]](#10)
 #### <a name='Poverty'></a> Poverty
 
-[\[3\]](#3)
+[\[4\]](#4)
 #### <a name='Recommender'></a> Recommender
 
-[\[6\]](#6)
+[\[7\]](#7)
 #### <a name='Social Network'></a> Social Network
 
-[\[4\]](#4), [\[5\]](#5), [\[6\]](#6), [\[10\]](#10)
+[\[1\]](#1), [\[5\]](#5), [\[6\]](#6), [\[7\]](#7), [\[11\]](#11)
 #### <a name='USA'></a> USA
 
-[\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[9\]](#9)
+[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[7\]](#7), [\[10\]](#10)
