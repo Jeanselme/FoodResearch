@@ -2,5 +2,5 @@
 	"Summary": "This article shows the correlation between content of tweets and obeity by county. From it it produces a model that produces a risk of obseity for each individual allowing the anlyasis of interest of high risk people. It finally explores the network of friends to see the spread of obesity thourh network.",
 	"Conclusions": ["Strong correlation between food mentioned in tweets but also calories", "Demographic such as education and income have also a strong impact (even if only the mean by area is considered)", "People showing an interest in cooking have a lower risk in obesity", "High correlation with watching TV", "Friends are more likely to present a similar relation to food"],
 	"Limitations": ["Usual limitations of tweet: is it really reflective of habits (weekly in this dataset), selection bias, difference of tweets behavior given region", "Use #problemoffat is perhaps not nly used by obese people", "Use of model based on mean to predict personal risk: the use of image recognition to estimate the weight could enhance results)"],
-	"Tags": ["Obesity", "Social Network", "USA"]
+	"Tags": ["Obesity", "Social Network", "Network", "USA"]
 }
