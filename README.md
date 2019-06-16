@@ -29,7 +29,7 @@ This article shows the correlation between content of tweets and obeity by count
 - Use of model based on mean to predict personal risk: the use of image recognition to estimate the weight could enhance results)
 
 #### Tags
-[\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#USA](#USA) 
+[\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#Network](#Network) [\#USA](#USA) 
 </details>
 
 ### <a name='2'></a> \[2\] [Large-scale and high-resolution analysis of food purchases and health outcomes](https://doi.org/10.1140/epjds/s13688-019-0191-y) 
@@ -160,7 +160,7 @@ This article analyses the relationship beteen the number of fast food restaurant
 - It would be interesting to split the emotioin category associated to the comment into postive and negative
 
 #### Tags
-[\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#USA](#USA) 
+[\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
 ### <a name='6'></a> \[6\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
@@ -185,7 +185,7 @@ Cultural differences can be observed using food related information.
 - More demographics about users should be gathered
 
 #### Tags
-[\#Eating](#Eating) [\#Social Network](#Social Network) 
+[\#Eating](#Eating) [\#Social Network](#Social_Network) 
 </details>
 
 ### <a name='7'></a> \[7\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
@@ -211,7 +211,7 @@ Users prefer unhealthy recipes. Recommender should weight their recommendations 
 - Are the likes and comments a real reflect of what people consumes ?
 
 #### Tags
-[\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social Network) [\#USA](#USA) 
+[\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
 ### <a name='8'></a> \[8\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
@@ -337,7 +337,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 - Vocabulary used in the tweet should be studied in a discriminative fashiion, to evaluate what is characteristic of each group.
 
 #### Tags
-[\#Obesity](#Obesity) [\#Social Network](#Social Network) [\#CrowdSource](#CrowdSource) 
+[\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
 
@@ -363,7 +363,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\[8\]](#8)
 #### <a name='Network'></a> Network
 
-[\[3\]](#3)
+[\[1\]](#1), [\[3\]](#3)
 #### <a name='Neurobio'></a> Neurobio
 
 [\[9\]](#9)
@@ -379,7 +379,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 #### <a name='Recommender'></a> Recommender
 
 [\[7\]](#7)
-#### <a name='Social Network'></a> Social Network
+#### <a name='Social_Network'></a> Social Network
 
 [\[1\]](#1), [\[5\]](#5), [\[6\]](#6), [\[7\]](#7), [\[11\]](#11)
 #### <a name='USA'></a> USA

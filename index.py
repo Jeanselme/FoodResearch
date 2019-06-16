@@ -15,7 +15,7 @@ def new_files():
 def update_index():
     for ref in [f for f in os.listdir(ref_folder) if '.bib' in f]:
         if not(ref in index_file.index):
-            index_file.loc[ref] = pd.Timestamp.now()
+            index_file.loc[ref] = pd.Timestamp.now().date()
     index_file.to_csv(os.path.join(ref_folder, 'index.csv'), header = True)
 
 tags = {}
