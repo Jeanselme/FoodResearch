@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyzes the impact of geography and climate proximity on food similarity.",
+    "Conclusions": ["Geogrphic proximity important in proximity more than climate proximity", "Outliers explained by historical reasons"]
+	"Limitations": ["Conclusions linked to climate sound limited because only look at difference of mean temperature of the capitals"],
+	"Tags": ["Cuisine", "Geography", "China"]
+}

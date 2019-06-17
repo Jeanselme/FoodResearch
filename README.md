@@ -340,18 +340,52 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
+### <a name='12'></a> \[12\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
+
+by Zhu, Yu-Xiao and Huang, Junming and Zhang, Zi-Ke and Zhang, Qian-Ming and Zhou, Tao and Ahn, Yong-Yeol
+ in 2013
+
+#### Abstract
+> Food occupies a central position in every culture and it is therefore of great interest to understand the evolution of food culture. The advent of the World Wide Web and online recipe repositories have begun to provide unprecedented opportunities for data-driven, quantitative study of food culture. Here we harness an online database documenting recipes from various Chinese regional cuisines and investigate the similarity of regional cuisines in terms of geography and climate. We find that geographical proximity, rather than climate proximity, is a crucial factor that determines the similarity of regional cuisines. We develop a model of regional cuisine evolution that provides helpful clues for understanding the evolution of cuisines and cultures.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyzes the impact of geography and climate proximity on food similarity.
+
+#### Conclusions
+- Geogrphic proximity important in proximity more than climate proximity
+- Outliers explained by historical reasons
+
+#### Limitations
+- Conclusions linked to climate sound limited because only look at difference of mean temperature of the capitals
+
+#### Tags
+[\#Cuisine](#Cuisine) [\#Geography](#Geography) [\#China](#China) 
+</details>
+
 
 ## Tags
 
+#### <a name='China'></a> China
+
+[\[12\]](#12)
 #### <a name='CrowdSource'></a> CrowdSource
 
 [\[11\]](#11)
+#### <a name='Cuisine'></a> Cuisine
+
+[\[12\]](#12)
 #### <a name='Eating'></a> Eating
 
 [\[6\]](#6), [\[7\]](#7), [\[9\]](#9), [\[10\]](#10)
 #### <a name='England'></a> England
 
 [\[2\]](#2)
+#### <a name='Geography'></a> Geography
+
+[\[12\]](#12)
 #### <a name='Grocery'></a> Grocery
 
 [\[2\]](#2)
