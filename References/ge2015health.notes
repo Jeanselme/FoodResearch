@@ -1,0 +1,5 @@
+{
+	"Summary": "This article proposes a food recommender system that takes into account the calories needed by the user and the calories from the recipe.",
+	"Limitations": ["Measure of healthiness should not relie on calories."],
+	"Tags": ["Cuisine", "Eating", "Recommender"]
+}

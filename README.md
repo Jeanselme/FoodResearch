@@ -137,7 +137,28 @@ This article analyses the evolution of obesity and BMI from 1971 to 2002 given s
 [\#Obesity](#Obesity) [\#Poverty](#Poverty) [\#USA](#USA) 
 </details>
 
-### <a name='5'></a> \[5\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
+### <a name='5'></a> \[5\] [Health-aware food recommender system](https://dl.acm.org/citation.cfm?id=2796554) 
+
+by Ge, Mouzhi and Ricci, Francesco and Massimo, David
+ in 2015
+
+#### Abstract
+> With the rapid changes in the food variety and lifestyles, many people are facing the problem of making healthier food decisions to reduce the risk of chronic diseases such as obesity and diabetes. To this end, our recommender system not only offers recipe recommendations that suit the user's preference but is also able to take the user's health into account. It is developed on a mobile platform by considering that our application may be directly used in the kitchen. This demo paper summarizes the complete human-computer interaction design, the implemented health-aware recommendation algorithm and preliminary user feedback.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article proposes a food recommender system that takes into account the calories needed by the user and the calories from the recipe.
+
+#### Limitations
+- Measure of healthiness should not relie on calories.
+
+#### Tags
+[\#Cuisine](#Cuisine) [\#Eating](#Eating) [\#Recommender](#Recommender) 
+</details>
+
+### <a name='6'></a> \[6\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
 
 by Mejova, Yelena and Haddadi, Hamed and Noulas, Anastasios and Weber, Ingmar
  in 2015
@@ -163,7 +184,7 @@ This article analyses the relationship beteen the number of fast food restaurant
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='6'></a> \[6\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
+### <a name='7'></a> \[7\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
 
 by Thiago H Silva and Pedro O S Vaz de Melo and Jussara Almeida and Mirco Musolesi and Antonio Loureiro
  in 2014
@@ -188,7 +209,7 @@ Cultural differences can be observed using food related information.
 [\#Eating](#Eating) [\#Social Network](#Social_Network) 
 </details>
 
-### <a name='7'></a> \[7\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
+### <a name='8'></a> \[8\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
 
 by Trattner, Christoph and Elsweiler, David
  in 2017
@@ -214,7 +235,7 @@ Users prefer unhealthy recipes. Recommender should weight their recommendations 
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='8'></a> \[8\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='9'></a> \[9\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -240,7 +261,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='9'></a> \[9\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='10'></a> \[10\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -278,7 +299,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='10'></a> \[10\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='11'></a> \[11\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -315,7 +336,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='11'></a> \[11\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='12'></a> \[12\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -340,7 +361,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
-### <a name='12'></a> \[12\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
+### <a name='13'></a> \[13\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
 
 by Zhu, Yu-Xiao and Huang, Junming and Zhang, Zi-Ke and Zhang, Qian-Ming and Zhou, Tao and Ahn, Yong-Yeol
  in 2013
@@ -370,22 +391,22 @@ This article analyzes the impact of geography and climate proximity on food simi
 
 #### <a name='China'></a> China
 
-[\[12\]](#12)
+[\[13\]](#13)
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[11\]](#11)
+[\[12\]](#12)
 #### <a name='Cuisine'></a> Cuisine
 
-[\[12\]](#12)
+[\[5\]](#5), [\[13\]](#13)
 #### <a name='Eating'></a> Eating
 
-[\[6\]](#6), [\[7\]](#7), [\[9\]](#9), [\[10\]](#10)
+[\[5\]](#5), [\[7\]](#7), [\[8\]](#8), [\[10\]](#10), [\[11\]](#11)
 #### <a name='England'></a> England
 
 [\[2\]](#2)
 #### <a name='Geography'></a> Geography
 
-[\[12\]](#12)
+[\[13\]](#13)
 #### <a name='Grocery'></a> Grocery
 
 [\[2\]](#2)
@@ -394,28 +415,28 @@ This article analyzes the impact of geography and climate proximity on food simi
 [\[2\]](#2)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[8\]](#8)
+[\[9\]](#9)
 #### <a name='Network'></a> Network
 
 [\[1\]](#1), [\[3\]](#3)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[9\]](#9)
+[\[10\]](#10)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[8\]](#8), [\[10\]](#10), [\[11\]](#11)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[9\]](#9), [\[11\]](#11), [\[12\]](#12)
 #### <a name='Portion'></a> Portion
 
-[\[9\]](#9), [\[10\]](#10)
+[\[10\]](#10), [\[11\]](#11)
 #### <a name='Poverty'></a> Poverty
 
 [\[4\]](#4)
 #### <a name='Recommender'></a> Recommender
 
-[\[7\]](#7)
+[\[5\]](#5), [\[8\]](#8)
 #### <a name='Social_Network'></a> Social Network
 
-[\[1\]](#1), [\[5\]](#5), [\[6\]](#6), [\[7\]](#7), [\[11\]](#11)
+[\[1\]](#1), [\[6\]](#6), [\[7\]](#7), [\[8\]](#8), [\[12\]](#12)
 #### <a name='USA'></a> USA
 
-[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[5\]](#5), [\[7\]](#7), [\[10\]](#10)
+[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[8\]](#8), [\[11\]](#11)
