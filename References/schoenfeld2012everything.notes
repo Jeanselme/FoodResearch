@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the disease risk asxociated to different ingredients given the literature.",
+	"Conclusions": ["All food was related to an increased cancer risk.", "Pressure for publication forces publication of weakly significant result and overinterpretation of results."],
+	"Limitations": "Finer meta analysis could identify which studies have more weight",
+	"Tags": ["Eating", "Cancer", "Meta Analysis"]
+}

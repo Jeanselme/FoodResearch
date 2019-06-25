@@ -184,7 +184,32 @@ This article analyses the relationship beteen the number of fast food restaurant
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='7'></a> \[7\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
+### <a name='7'></a> \[7\] [Is everything we eat associated with cancer? A systematic cookbook review](https://europepmc.org/abstract/med/23193004) 
+
+by Schoenfeld, Jonathan D and Ioannidis, John PA
+ in 2012
+
+#### Abstract
+> BACKGROUND: Nutritional epidemiology is a highly prolific field. Debates on associations of nutrients with disease risk are common in the literature and attract attention in public media. OBJECTIVE: We aimed to examine the conclusions, statistical significance, and reproducibility in the literature on associations between specific foods and cancer risk. DESIGN: We selected 50 common ingredients from random recipes in a cookbook. PubMed queries identified recent studies that evaluated the relation of each ingredient to cancer risk. Information regarding author conclusions and relevant effect estimates were extracted. When >10 articles were found, we focused on the 10 most recent articles. RESULTS: Forty ingredients (80%) had articles reporting on their cancer risk. Of 264 single-study assessments, 191 (72%) concluded that the tested food was associated with an increased (n = 103) or a decreased (n = 88) risk; 75% of the risk estimates had weak (0.05 > P >= 0.001) or no statistical (P > 0.05) significance. Statistically significant results were more likely than nonsignificant findings to be published in the study abstract than in only the full text (P < 0.0001). Meta-analyses (n = 36) presented more conservative results; only 13 (26%) reported an increased (n = 4) or a decreased (n = 9) risk (6 had more than weak statistical support). The median RRs (IQRs) for studies that concluded an increased or a decreased risk were 2.20 (1.60, 3.44) and 0.52 (0.39, 0.66), respectively. The RRs from the meta-analyses were on average null (median: 0.96; IQR: 0.85, 1.10). CONCLUSIONS: Associations with cancer risk or benefits have been claimed for most food ingredients. Many single studies highlight implausibly large effects, even though evidence is weak. Effect sizes shrink in meta-analyses.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyses the disease risk asxociated to different ingredients given the literature.
+
+#### Conclusions
+- All food was related to an increased cancer risk.
+- Pressure for publication forces publication of weakly significant result and overinterpretation of results.
+
+#### Limitations
+Finer meta analysis could identify which studies have more weight
+
+#### Tags
+[\#Eating](#Eating) [\#Cancer](#Cancer) [\#Meta Analysis](#Meta_Analysis) 
+</details>
+
+### <a name='8'></a> \[8\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
 
 by Thiago H Silva and Pedro O S Vaz de Melo and Jussara Almeida and Mirco Musolesi and Antonio Loureiro
  in 2014
@@ -209,7 +234,7 @@ Cultural differences can be observed using food related information.
 [\#Eating](#Eating) [\#Social Network](#Social_Network) 
 </details>
 
-### <a name='8'></a> \[8\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
+### <a name='9'></a> \[9\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
 
 by Trattner, Christoph and Elsweiler, David
  in 2017
@@ -235,7 +260,7 @@ Users prefer unhealthy recipes. Recommender should weight their recommendations 
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='9'></a> \[9\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='10'></a> \[10\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -261,7 +286,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='10'></a> \[10\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='11'></a> \[11\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -299,7 +324,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='11'></a> \[11\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='12'></a> \[12\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -336,7 +361,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='12'></a> \[12\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='13'></a> \[13\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -361,7 +386,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
-### <a name='13'></a> \[13\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
+### <a name='14'></a> \[14\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
 
 by Zhu, Yu-Xiao and Huang, Junming and Zhang, Zi-Ke and Zhang, Qian-Ming and Zhou, Tao and Ahn, Yong-Yeol
  in 2013
@@ -389,54 +414,60 @@ This article analyzes the impact of geography and climate proximity on food simi
 
 ## Tags
 
+#### <a name='Cancer'></a> Cancer
+
+[\[7\]](#7)
 #### <a name='China'></a> China
 
-[\[13\]](#13)
+[\[14\]](#14)
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[12\]](#12)
+[\[13\]](#13)
 #### <a name='Cuisine'></a> Cuisine
 
-[\[5\]](#5), [\[13\]](#13)
+[\[5\]](#5), [\[14\]](#14)
 #### <a name='Eating'></a> Eating
 
-[\[5\]](#5), [\[7\]](#7), [\[8\]](#8), [\[10\]](#10), [\[11\]](#11)
+[\[5\]](#5), [\[7\]](#7), [\[8\]](#8), [\[9\]](#9), [\[11\]](#11), [\[12\]](#12)
 #### <a name='England'></a> England
 
 [\[2\]](#2)
 #### <a name='Geography'></a> Geography
 
-[\[13\]](#13)
+[\[14\]](#14)
 #### <a name='Grocery'></a> Grocery
 
 [\[2\]](#2)
 #### <a name='ML'></a> ML
 
 [\[2\]](#2)
+#### <a name='Meta_Analysis'></a> Meta Analysis
+
+[\[7\]](#7)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[9\]](#9)
+[\[10\]](#10)
 #### <a name='Network'></a> Network
 
 [\[1\]](#1), [\[3\]](#3)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[10\]](#10)
+[\[11\]](#11)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[9\]](#9), [\[11\]](#11), [\[12\]](#12)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[10\]](#10), [\[12\]](#12), [\[13\]](#13)
 #### <a name='Portion'></a> Portion
 
-[\[10\]](#10), [\[11\]](#11)
+[\[11\]](#11), [\[12\]](#12)
 #### <a name='Poverty'></a> Poverty
 
 [\[4\]](#4)
 #### <a name='Recommender'></a> Recommender
 
-[\[5\]](#5), [\[8\]](#8)
+[\[5\]](#5), [\[9\]](#9)
 #### <a name='Social_Network'></a> Social Network
 
-[\[1\]](#1), [\[6\]](#6), [\[7\]](#7), [\[8\]](#8), [\[12\]](#12)
+[\[1\]](#1), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9), [\[13\]](#13)
 #### <a name='USA'></a> USA
 
-[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[8\]](#8), [\[11\]](#11)
+[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[6\]](#6), [\[9\]](#9), [\[12\]](#12)
