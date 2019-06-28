@@ -386,7 +386,37 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
-### <a name='14'></a> \[14\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
+### <a name='14'></a> \[14\] [Personalized nutrition by prediction of glycemic responses](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6#) 
+
+by Zeevi, David and Korem, Tal and Zmora, Niv and Israeli, David and Rothschild, Daphna and Weinberger, Adina and Ben-Yacov, Orly and Lador, Dar and Avnit-Sagi, Tali and Lotan-Pompan, Maya and others
+ in 2015
+
+#### Abstract
+> Elevated postprandial blood glucose levels constitute a global epidemic and a major risk factor for prediabetes and type II diabetes, but existing dietary methods for controlling them have limited efficacy. Here, we continuously monitored week-long glucose levels in an 800-person cohort, measured responses to 46,898 meals, and found high variability in the response to identical meals, suggesting that universal dietary recommendations may have limited utility. We devised a machine-learning algorithm that integrates blood parameters, dietary habits, anthropometrics, physical activity, and gut microbiota measured in this cohort and showed that it accurately predicts personalized postprandial glycemic response to real-life meals. We validated these predictions in an independent 100-person cohort. Finally, a blinded randomized controlled dietary intervention based on this algorithm resulted in significantly lower postprandial responses and consistent alterations to gut microbiota configuration. Together, our results suggest that personalized diets may successfully modify elevated postprandial blood glucose and its metabolic consequences.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+Measures the blood sugar response to identical meals
+
+#### Conclusions
+- Response varies greatly from one user to another
+- Gradient boosting regression allows to predict the response given microbiome and different information concerning the user much better than model built on carbohydrate content only
+- High agreement between multiple intake of the same food for one individual
+- Carb sensitivity is patient specific
+- Nutrition impact significantly the microbiome population of the host
+
+#### Limitations
+- An analysis using only microbiome would be interesting to remove interaction between features
+-  Why 2 hours after meal have been considered ?
+- PDP chosen for showing impact of features: it assumes independence of features ...
+
+#### Tags
+[\#Mircrobiome](#Mircrobiome) [\#ML](#ML) [\#Eating](#Eating) 
+</details>
+
+### <a name='15'></a> \[15\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
 
 by Zhu, Yu-Xiao and Huang, Junming and Zhang, Zi-Ke and Zhang, Qian-Ming and Zhou, Tao and Ahn, Yong-Yeol
  in 2013
@@ -419,34 +449,34 @@ This article analyzes the impact of geography and climate proximity on food simi
 [\[7\]](#7)
 #### <a name='China'></a> China
 
-[\[14\]](#14)
+[\[15\]](#15)
 #### <a name='CrowdSource'></a> CrowdSource
 
 [\[13\]](#13)
 #### <a name='Cuisine'></a> Cuisine
 
-[\[5\]](#5), [\[14\]](#14)
+[\[5\]](#5), [\[15\]](#15)
 #### <a name='Eating'></a> Eating
 
-[\[5\]](#5), [\[7\]](#7), [\[8\]](#8), [\[9\]](#9), [\[11\]](#11), [\[12\]](#12)
+[\[5\]](#5), [\[7\]](#7), [\[8\]](#8), [\[9\]](#9), [\[11\]](#11), [\[12\]](#12), [\[14\]](#14)
 #### <a name='England'></a> England
 
 [\[2\]](#2)
 #### <a name='Geography'></a> Geography
 
-[\[14\]](#14)
+[\[15\]](#15)
 #### <a name='Grocery'></a> Grocery
 
 [\[2\]](#2)
 #### <a name='ML'></a> ML
 
-[\[2\]](#2)
+[\[2\]](#2), [\[14\]](#14)
 #### <a name='Meta_Analysis'></a> Meta Analysis
 
 [\[7\]](#7)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[10\]](#10)
+[\[10\]](#10), [\[14\]](#14)
 #### <a name='Network'></a> Network
 
 [\[1\]](#1), [\[3\]](#3)

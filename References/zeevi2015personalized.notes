@@ -1,0 +1,6 @@
+{
+	"Summary": "Measures the blood sugar response to identical meals",
+    "Conclusions": ["Response varies greatly from one user to another", "Gradient boosting regression allows to predict the response given microbiome and different information concerning the user much better than model built on carbohydrate content only", "High agreement between multiple intake of the same food for one individual", "Carb sensitivity is patient specific", "Nutrition impact significantly the microbiome population of the host"],
+	"Limitations": ["An analysis using only microbiome would be interesting to remove interaction between features", " Why 2 hours after meal have been considered ?", "PDP chosen for showing impact of features: it assumes independence of features ..."],
+	"Tags": ["Mircrobiome", "ML", "Eating"]
+}
