@@ -213,7 +213,32 @@ This article analyses the relationship beteen the number of fast food restaurant
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='8'></a> \[8\] [Is everything we eat associated with cancer? A systematic cookbook review](https://europepmc.org/abstract/med/23193004) 
+### <a name='8'></a> \[8\] [Impact of front-of-pack 'traffic-light' nutrition labelling on consumer food purchases in the UK](https://academic.oup.com/heapro/article/24/4/344/575241) 
+
+by Sacks, Gary and Rayner, Mike and Swinburn, Boyd
+ in 2009
+
+#### Abstract
+> Front-of-pack 'traffic-light' nutrition labelling has been widely proposed as a tool to improve public health nutrition. This study examined changes to consumer food purchases after the introduction of traffic-light labels with the aim of assessing the impact of the labels on the 'healthiness' of foods purchased. The study examined sales data from a major UK retailer in 2007. We analysed products in two categories ('ready meals' and sandwiches), investigating the percentage change in sales 4 weeks before and after traffic-light labels were introduced, and taking into account seasonality, product promotions and product life-cycle. We investigated whether changes in sales were related to the healthiness of products. All products that were not new and not on promotion immediately before or after the introduction of traffic-light labels were selected for the analysis (n = 6 for ready meals and n = 12 for sandwiches). For the selected ready-meals, sales increased (by 2.4% of category sales) in the 4 weeks after the introduction of traffic-light labels, whereas sales of the selected sandwiches did not change significantly. Critically, there was no association between changes in product sales and the healthiness of the products. This short-term study based on a small number of ready meals and sandwiches found that the introduction of a system of four traffic-light labels had no discernable effect on the relative healthiness of consumer purchases. Further research on the influence of nutrition signposting will be needed before this labelling format can be considered a promising public health intervention.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyzes the impact of the tri color signal on food package on the healthiness of purchase.
+
+#### Conclusions
+People were not impacted by this change in the 8 weeks around this time
+
+#### Limitations
+- Impact of the media speaking about this change had perhaps increased the attention and the change wouldn't have been observed at that time
+- A meta analysis would be more interesting to see if the global healthiness have changed
+
+#### Tags
+[\#Eating](#Eating) [\#Recommender](#Recommender) [\#England](#England) [\#Grocery](#Grocery) 
+</details>
+
+### <a name='9'></a> \[9\] [Is everything we eat associated with cancer? A systematic cookbook review](https://europepmc.org/abstract/med/23193004) 
 
 by Schoenfeld, Jonathan D and Ioannidis, John PA
  in 2012
@@ -238,7 +263,7 @@ Finer meta analysis could identify which studies have more weight
 [\#Eating](#Eating) [\#Cancer](#Cancer) [\#Meta Analysis](#Meta_Analysis) 
 </details>
 
-### <a name='9'></a> \[9\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
+### <a name='10'></a> \[10\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
 
 by Thiago H Silva and Pedro O S Vaz de Melo and Jussara Almeida and Mirco Musolesi and Antonio Loureiro
  in 2014
@@ -263,7 +288,7 @@ Cultural differences can be observed using food related information.
 [\#Eating](#Eating) [\#Social Network](#Social_Network) 
 </details>
 
-### <a name='10'></a> \[10\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
+### <a name='11'></a> \[11\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
 
 by Trattner, Christoph and Elsweiler, David
  in 2017
@@ -289,7 +314,7 @@ Users prefer unhealthy recipes. Recommender should weight their recommendations 
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='11'></a> \[11\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='12'></a> \[12\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -315,7 +340,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='12'></a> \[12\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='13'></a> \[13\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -353,7 +378,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='13'></a> \[13\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='14'></a> \[14\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -390,7 +415,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='14'></a> \[14\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='15'></a> \[15\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -415,7 +440,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
-### <a name='15'></a> \[15\] [Personalized nutrition by prediction of glycemic responses](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6#) 
+### <a name='16'></a> \[16\] [Personalized nutrition by prediction of glycemic responses](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6#) 
 
 by Zeevi, David and Korem, Tal and Zmora, Niv and Israeli, David and Rothschild, Daphna and Weinberger, Adina and Ben-Yacov, Orly and Lador, Dar and Avnit-Sagi, Tali and Lotan-Pompan, Maya and others
  in 2015
@@ -445,7 +470,7 @@ Measures the blood sugar response to identical meals
 [\#Mircrobiome](#Mircrobiome) [\#ML](#ML) [\#Eating](#Eating) 
 </details>
 
-### <a name='16'></a> \[16\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
+### <a name='17'></a> \[17\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
 
 by Zhu, Yu-Xiao and Huang, Junming and Zhang, Zi-Ke and Zhang, Qian-Ming and Zhou, Tao and Ahn, Yong-Yeol
  in 2013
@@ -475,58 +500,58 @@ This article analyzes the impact of geography and climate proximity on food simi
 
 #### <a name='Cancer'></a> Cancer
 
-[\[8\]](#8)
+[\[9\]](#9)
 #### <a name='China'></a> China
 
-[\[16\]](#16)
+[\[17\]](#17)
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[14\]](#14)
+[\[15\]](#15)
 #### <a name='Cuisine'></a> Cuisine
 
-[\[5\]](#5), [\[6\]](#6), [\[16\]](#16)
+[\[5\]](#5), [\[6\]](#6), [\[17\]](#17)
 #### <a name='Eating'></a> Eating
 
-[\[5\]](#5), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9), [\[10\]](#10), [\[12\]](#12), [\[13\]](#13), [\[15\]](#15)
+[\[5\]](#5), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9), [\[10\]](#10), [\[11\]](#11), [\[13\]](#13), [\[14\]](#14), [\[16\]](#16)
 #### <a name='England'></a> England
 
-[\[2\]](#2)
+[\[2\]](#2), [\[8\]](#8)
 #### <a name='Geography'></a> Geography
 
-[\[16\]](#16)
+[\[17\]](#17)
 #### <a name='Grocery'></a> Grocery
 
-[\[2\]](#2)
+[\[2\]](#2), [\[8\]](#8)
 #### <a name='ML'></a> ML
 
-[\[2\]](#2), [\[15\]](#15)
+[\[2\]](#2), [\[16\]](#16)
 #### <a name='Meta_Analysis'></a> Meta Analysis
 
-[\[8\]](#8)
+[\[9\]](#9)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[11\]](#11), [\[15\]](#15)
+[\[12\]](#12), [\[16\]](#16)
 #### <a name='Network'></a> Network
 
 [\[1\]](#1), [\[3\]](#3)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[12\]](#12)
+[\[13\]](#13)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[11\]](#11), [\[13\]](#13), [\[14\]](#14)
+[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[12\]](#12), [\[14\]](#14), [\[15\]](#15)
 #### <a name='Portion'></a> Portion
 
-[\[12\]](#12), [\[13\]](#13)
+[\[13\]](#13), [\[14\]](#14)
 #### <a name='Poverty'></a> Poverty
 
 [\[4\]](#4)
 #### <a name='Recommender'></a> Recommender
 
-[\[5\]](#5), [\[6\]](#6), [\[10\]](#10)
+[\[5\]](#5), [\[6\]](#6), [\[8\]](#8), [\[11\]](#11)
 #### <a name='Social_Network'></a> Social Network
 
-[\[1\]](#1), [\[7\]](#7), [\[9\]](#9), [\[10\]](#10), [\[14\]](#14)
+[\[1\]](#1), [\[7\]](#7), [\[10\]](#10), [\[11\]](#11), [\[15\]](#15)
 #### <a name='USA'></a> USA
 
-[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[10\]](#10), [\[13\]](#13)
+[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[11\]](#11), [\[14\]](#14)
