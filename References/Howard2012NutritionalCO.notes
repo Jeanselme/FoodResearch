@@ -1,0 +1,5 @@
+{
+	"Summary": "This article compares chef and ready meals recipes.",
+	"Limitations": ["The analysis has been done on only 5 chef books which were top saled, this might be a biased view of chef recipe.", "A significance test of the proportion size would be interesting to evaluate if books tend to have bigger size."],
+	"Tags": ["Cuisine", "Eating", "England", "Grocery"]
+}

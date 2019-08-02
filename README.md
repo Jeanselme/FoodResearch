@@ -62,7 +62,54 @@ This article uses grocery store data and medical prescriptions to analyze the im
 [\#Obesity](#Obesity) [\#Grocery](#Grocery) [\#ML](#ML) [\#England](#England) 
 </details>
 
-### <a name='3'></a> \[3\] [The Spread of Obesity in a Large Social Network over 32 Years](https://doi.org/10.1056/NEJMsa066082) 
+### <a name='3'></a> \[3\] [Nutritional content of supermarket ready meals and recipes by television chefs in the United Kingdom: cross sectional study](https://www.semanticscholar.org/paper/Nutritional-content-of-supermarket-ready-meals-and-Howard-Adams/7a329e67996f55433b606d250c9edb05b11b7582) 
+
+by Simon James Howard and Jean Adams and Michel White
+ in 2012
+
+#### Abstract
+> OBJECTIVES
+>To compare the energy and macronutrient content of main meals created by television chefs with ready meals sold by supermarkets, and to compare both with nutritional guidelines published by the World Health Organization and UK Food Standards Agency.
+>
+>
+>DESIGN
+>Cross sectional study.
+>
+>
+>SETTING
+>Three supermarkets with the largest share of the grocery market in the United Kingdom, 2010.
+>
+>
+>SAMPLES
+>100 main meal recipes from five bestselling cookery books by UK television chefs and 100 own brand ready meals from the three leading UK supermarkets.
+>
+>
+>MAIN OUTCOME MEASURES
+>Number of meals for which the nutritional content complied with WHO recommendations, and the proportion of nutrients classified as red, amber, or green using the UK FSA's "traffic light" system for labelling food.
+>
+>
+>RESULTS
+>No recipe or ready meal fully complied with the WHO recommendations. The ready meals were more likely to comply with the recommended proportions of energy derived from carbohydrate (18% v 6%, P=0.01) and sugars (83% v 81%, P=0.05) and fibre density (56% v 14% P<0.01). The recipes were more likely to comply with the recommended sodium density (36% v 4%, P<0.01), although salt used for seasoning was not assessed. The distributions of traffic light colours under the FSA's food labelling recommendations differed: the modal traffic light was red for the recipes (47%) and green for ready meals (42%). Overall, the recipes contained significantly more energy (2530 kJ v 2067 kJ), protein (37.5 g v 27.9 g), fat (27.1 g v 17.2 g), and saturated fat (9.2 g v 6.8 g; P<0.01 for all) and significantly less fibre (3.3 g v 6.5 g, P<0.01) per portion than the ready meals.
+>
+>
+>CONCLUSIONS
+>Neither recipes created by television chefs nor ready meals sold by three of the leading UK supermarkets complied with WHO recommendations. Recipes were less healthy than ready meals, containing significantly more energy, protein, fat, and saturated fat, and less fibre per portion than the ready meals.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article compares chef and ready meals recipes.
+
+#### Limitations
+- The analysis has been done on only 5 chef books which were top saled, this might be a biased view of chef recipe.
+- A significance test of the proportion size would be interesting to evaluate if books tend to have bigger size.
+
+#### Tags
+[\#Cuisine](#Cuisine) [\#Eating](#Eating) [\#England](#England) [\#Grocery](#Grocery) 
+</details>
+
+### <a name='4'></a> \[4\] [The Spread of Obesity in a Large Social Network over 32 Years](https://doi.org/10.1056/NEJMsa066082) 
 
 by Christakis, Nicholas A. and Fowler, James H.
  in 2007
@@ -100,7 +147,7 @@ This article analyses the spread of obesity through the relations network.
 [\#Obesity](#Obesity) [\#Network](#Network) [\#USA](#USA) 
 </details>
 
-### <a name='4'></a> \[4\] [Income disparities in body mass index and obesity in the United States, 1971-2002](https://www.ncbi.nlm.nih.gov/pubmed/16217002) 
+### <a name='5'></a> \[5\] [Income disparities in body mass index and obesity in the United States, 1971-2002](https://www.ncbi.nlm.nih.gov/pubmed/16217002) 
 
 by Chang, Virginia W and Lauderdale, Diane S
  in 2005
@@ -137,7 +184,7 @@ This article analyses the evolution of obesity and BMI from 1971 to 2002 given s
 [\#Obesity](#Obesity) [\#Poverty](#Poverty) [\#USA](#USA) 
 </details>
 
-### <a name='5'></a> \[5\] [Exploiting food choice biases for healthier recipe recommendation](https://dl.acm.org/citation.cfm?id=3080826) 
+### <a name='6'></a> \[6\] [Exploiting food choice biases for healthier recipe recommendation](https://dl.acm.org/citation.cfm?id=3080826) 
 
 by Elsweiler, David and Trattner, Christoph and Harvey, Morgan
  in 2017
@@ -166,7 +213,7 @@ This article proposes approached to show in a food recommender system similar re
 [\#Cuisine](#Cuisine) [\#Eating](#Eating) [\#Recommender](#Recommender) 
 </details>
 
-### <a name='6'></a> \[6\] [Health-aware food recommender system](https://dl.acm.org/citation.cfm?id=2796554) 
+### <a name='7'></a> \[7\] [Health-aware food recommender system](https://dl.acm.org/citation.cfm?id=2796554) 
 
 by Ge, Mouzhi and Ricci, Francesco and Massimo, David
  in 2015
@@ -187,7 +234,7 @@ This article proposes a food recommender system that takes into account the calo
 [\#Cuisine](#Cuisine) [\#Eating](#Eating) [\#Recommender](#Recommender) 
 </details>
 
-### <a name='7'></a> \[7\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
+### <a name='8'></a> \[8\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
 
 by Mejova, Yelena and Haddadi, Hamed and Noulas, Anastasios and Weber, Ingmar
  in 2015
@@ -213,7 +260,7 @@ This article analyses the relationship beteen the number of fast food restaurant
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='8'></a> \[8\] [Impact of front-of-pack 'traffic-light' nutrition labelling on consumer food purchases in the UK](https://academic.oup.com/heapro/article/24/4/344/575241) 
+### <a name='9'></a> \[9\] [Impact of front-of-pack 'traffic-light' nutrition labelling on consumer food purchases in the UK](https://academic.oup.com/heapro/article/24/4/344/575241) 
 
 by Sacks, Gary and Rayner, Mike and Swinburn, Boyd
  in 2009
@@ -238,7 +285,7 @@ People were not impacted by this change in the 8 weeks around this time
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#England](#England) [\#Grocery](#Grocery) 
 </details>
 
-### <a name='9'></a> \[9\] [Is everything we eat associated with cancer? A systematic cookbook review](https://europepmc.org/abstract/med/23193004) 
+### <a name='10'></a> \[10\] [Is everything we eat associated with cancer? A systematic cookbook review](https://europepmc.org/abstract/med/23193004) 
 
 by Schoenfeld, Jonathan D and Ioannidis, John PA
  in 2012
@@ -263,7 +310,7 @@ Finer meta analysis could identify which studies have more weight
 [\#Eating](#Eating) [\#Cancer](#Cancer) [\#Meta Analysis](#Meta_Analysis) 
 </details>
 
-### <a name='10'></a> \[10\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
+### <a name='11'></a> \[11\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
 
 by Thiago H Silva and Pedro O S Vaz de Melo and Jussara Almeida and Mirco Musolesi and Antonio Loureiro
  in 2014
@@ -288,7 +335,7 @@ Cultural differences can be observed using food related information.
 [\#Eating](#Eating) [\#Social Network](#Social_Network) 
 </details>
 
-### <a name='11'></a> \[11\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
+### <a name='12'></a> \[12\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
 
 by Trattner, Christoph and Elsweiler, David
  in 2017
@@ -314,7 +361,7 @@ Users prefer unhealthy recipes. Recommender should weight their recommendations 
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='12'></a> \[12\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='13'></a> \[13\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -340,7 +387,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='13'></a> \[13\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='14'></a> \[14\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -378,7 +425,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='14'></a> \[14\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='15'></a> \[15\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -415,7 +462,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='15'></a> \[15\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='16'></a> \[16\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -440,7 +487,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
-### <a name='16'></a> \[16\] [Personalized nutrition by prediction of glycemic responses](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6#) 
+### <a name='17'></a> \[17\] [Personalized nutrition by prediction of glycemic responses](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6#) 
 
 by Zeevi, David and Korem, Tal and Zmora, Niv and Israeli, David and Rothschild, Daphna and Weinberger, Adina and Ben-Yacov, Orly and Lador, Dar and Avnit-Sagi, Tali and Lotan-Pompan, Maya and others
  in 2015
@@ -470,7 +517,7 @@ Measures the blood sugar response to identical meals
 [\#Mircrobiome](#Mircrobiome) [\#ML](#ML) [\#Eating](#Eating) 
 </details>
 
-### <a name='17'></a> \[17\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
+### <a name='18'></a> \[18\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
 
 by Zhu, Yu-Xiao and Huang, Junming and Zhang, Zi-Ke and Zhang, Qian-Ming and Zhou, Tao and Ahn, Yong-Yeol
  in 2013
@@ -500,58 +547,58 @@ This article analyzes the impact of geography and climate proximity on food simi
 
 #### <a name='Cancer'></a> Cancer
 
-[\[9\]](#9)
+[\[10\]](#10)
 #### <a name='China'></a> China
 
-[\[17\]](#17)
+[\[18\]](#18)
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[15\]](#15)
+[\[16\]](#16)
 #### <a name='Cuisine'></a> Cuisine
 
-[\[5\]](#5), [\[6\]](#6), [\[17\]](#17)
+[\[3\]](#3), [\[6\]](#6), [\[7\]](#7), [\[18\]](#18)
 #### <a name='Eating'></a> Eating
 
-[\[5\]](#5), [\[6\]](#6), [\[8\]](#8), [\[9\]](#9), [\[10\]](#10), [\[11\]](#11), [\[13\]](#13), [\[14\]](#14), [\[16\]](#16)
+[\[3\]](#3), [\[6\]](#6), [\[7\]](#7), [\[9\]](#9), [\[10\]](#10), [\[11\]](#11), [\[12\]](#12), [\[14\]](#14), [\[15\]](#15), [\[17\]](#17)
 #### <a name='England'></a> England
 
-[\[2\]](#2), [\[8\]](#8)
+[\[2\]](#2), [\[3\]](#3), [\[9\]](#9)
 #### <a name='Geography'></a> Geography
 
-[\[17\]](#17)
+[\[18\]](#18)
 #### <a name='Grocery'></a> Grocery
 
-[\[2\]](#2), [\[8\]](#8)
+[\[2\]](#2), [\[3\]](#3), [\[9\]](#9)
 #### <a name='ML'></a> ML
 
-[\[2\]](#2), [\[16\]](#16)
+[\[2\]](#2), [\[17\]](#17)
 #### <a name='Meta_Analysis'></a> Meta Analysis
 
-[\[9\]](#9)
+[\[10\]](#10)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[12\]](#12), [\[16\]](#16)
+[\[13\]](#13), [\[17\]](#17)
 #### <a name='Network'></a> Network
 
-[\[1\]](#1), [\[3\]](#3)
+[\[1\]](#1), [\[4\]](#4)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[13\]](#13)
+[\[14\]](#14)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[12\]](#12), [\[14\]](#14), [\[15\]](#15)
+[\[1\]](#1), [\[2\]](#2), [\[4\]](#4), [\[5\]](#5), [\[8\]](#8), [\[13\]](#13), [\[15\]](#15), [\[16\]](#16)
 #### <a name='Portion'></a> Portion
 
-[\[13\]](#13), [\[14\]](#14)
+[\[14\]](#14), [\[15\]](#15)
 #### <a name='Poverty'></a> Poverty
 
-[\[4\]](#4)
+[\[5\]](#5)
 #### <a name='Recommender'></a> Recommender
 
-[\[5\]](#5), [\[6\]](#6), [\[8\]](#8), [\[11\]](#11)
+[\[6\]](#6), [\[7\]](#7), [\[9\]](#9), [\[12\]](#12)
 #### <a name='Social_Network'></a> Social Network
 
-[\[1\]](#1), [\[7\]](#7), [\[10\]](#10), [\[11\]](#11), [\[15\]](#15)
+[\[1\]](#1), [\[8\]](#8), [\[11\]](#11), [\[12\]](#12), [\[16\]](#16)
 #### <a name='USA'></a> USA
 
-[\[1\]](#1), [\[3\]](#3), [\[4\]](#4), [\[7\]](#7), [\[11\]](#11), [\[14\]](#14)
+[\[1\]](#1), [\[4\]](#4), [\[5\]](#5), [\[8\]](#8), [\[12\]](#12), [\[15\]](#15)
