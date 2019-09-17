@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the relation between obesity, caloric intake, macronutrient intake and physical activity.",
+	"Conclusions": ["Carbohydrate, BMI and leisure physical activity have increased in the past decades", "Protein and Fat intakes decreased", "However controling those factors, BMI increased reflecting  an evolution in the body reaction to sport and energy intake or an evolution in the mentality of the user (perhaps obesity is becoming mainstream and it becomes easier to really report energy consumption)"],
+	"Limitations": ["Data are self reported", "Didn't look at fiber", "A subpart of the analysis is focusing on weekday data", "The proportion of white is significantly evolving, which can also reflects difference in food culture or microbiome that could impact those results", "Causality cannot be shown"],
+	"Tags": ["Obesity", "USA"]
+}
