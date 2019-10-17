@@ -1,6 +1,6 @@
 {
 	"Summary": "This article analyzes the impact of the tri color signal on food package on the healthiness of purchase.",
 	"Conclusions": "People were not impacted by this change in the 8 weeks around this time",
-	"Limitations": ["Impact of the media speaking about this change had perhaps increased the attention and the change wouldn't have been observed at that time". "A meta analysis would be more interesting to see if the global healthiness have changed"],
+	"Limitations": ["Impact of the media speaking about this change had perhaps increased the attention and the change wouldn't have been observed at that time", "A meta analysis would be more interesting to see if the global healthiness have changed"],
 	"Tags": ["Eating", "Recommender", "England", "Grocery"]
 }

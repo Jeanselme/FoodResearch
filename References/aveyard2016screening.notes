@@ -1,0 +1,6 @@
+{
+	"Summary": "This article analyses the impact of physician intervention on weight lose for obese patients in a randomized trial.",
+	"Conclusions": ["Intervention is useful", "No demographic differences between people accepting the intervention"],
+	"Limitations": ["Some patients did not come back, is this data missing at random ? Or patients who don't lose weight do not report"],
+	"Tags": ["Obesity", "UK"]
+}

@@ -147,7 +147,39 @@ This article analyses the spread of obesity through the relations network.
 [\#Obesity](#Obesity) [\#Network](#Network) [\#USA](#USA) 
 </details>
 
-### <a name='5'></a> \[5\] [Secular differences in the association between caloric intake, macronutrient intake, and physical activity with obesity](https://www.sciencedirect.com/science/article/abs/pii/S1871403X15001210) 
+### <a name='5'></a> \[5\] [Screening and brief intervention for obesity in primary care: a parallel, two-arm, randomised trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31893-1/fulltext) 
+
+by Aveyard, Paul and Lewis, Amanda and Tearne, Sarah and Hood, Kathryn and Christian-Brown, Anna and Adab, Peymane and Begh, Rachna and Jolly, Kate and Daley, Amanda and Farley, Amanda and others
+ in 2016
+
+#### Abstract
+> Background
+>Obesity is a common cause of non-communicable disease. Guidelines recommend that physicians screen and offer brief advice to motivate weight loss through referral to behavioural weight loss programmes. However, physicians rarely intervene and no trials have been done on the subject. We did this trial to establish whether physician brief intervention is acceptable and effective for reducing bodyweight in patients with obesity.
+>Methods
+>In this parallel, two-arm, randomised trial, patients who consulted 137 primary care physicians in England were screened for obesity. Individuals could be enrolled if they were aged at least 18 years, had a body-mass index of at least 30 kg/m2 (or at least 25 kg/m2 if of Asian ethnicity), and had a raised body fat percentage. At the end of the consultation, the physician randomly assigned participants (1:1) to one of two 30 s interventions. Randomisation was done via preprepared randomisation cards labelled with a code representing the allocation, which were placed in opaque sealed envelopes and given to physicians to open at the time of treatment assignment. In the active intervention, the physician offered referral to a weight management group (12 sessions of 1 h each, once per week) and, if the referral was accepted, the physician ensured the patient made an appointment and offered follow-up. In the control intervention, the physician advised the patient that their health would benefit from weight loss. The primary outcome was weight change at 12 months in the intention-to-treat population, which was assessed blinded to treatment allocation. We also assessed asked patients' about their feelings on discussing their weight when they have visited their general practitioner for other reasons. Given the nature of the intervention, we did not anticipate any adverse events in the usual sense, so safety outcomes were not assessed. This trial is registered with the ISRCTN Registry, number ISRCTN26563137.
+>Findings
+>Between June 4, 2013, and Dec 23, 2014, we screened 8403 patients, of whom 2728 (32%) were obese. Of these obese patients, 2256 (83%) agreed to participate and 1882 were eligible, enrolled, and included in the intention-to-treat analysis, with 940 individuals in the support group and 942 individuals in the advice group. 722 (77%) individuals assigned to the support intervention agreed to attend the weight management group and 379 (40%) of these individuals attended, compared with 82 (9%) participants who were allocated the advice intervention. In the entire study population, mean weight change at 12 months was 2.43 kg with the support intervention and 1.04 kg with the advice intervention, giving an adjusted difference of 1.43 kg (95% CI 0.89-1.97). The reactions of the patients to the general practitioners' brief interventions did not differ significantly between the study groups in terms of appropriateness (adjusted odds ratio 0.89, 95% CI 0.75-1.07, p=0.21) or helpfulness (1.05, 0.89-1.26, p=0.54); overall, four (<1%) patients thought their intervention was inappropriate and unhelpful and 1530 (81%) patients thought it was appropriate and helpful.
+>Interpretation
+>A behaviourally-informed, very brief, physician-delivered opportunistic intervention is acceptable to patients and an effective way to reduce population mean weight.
+
+<details>
+<summary>Notes</summary>
+
+#### Summary
+This article analyses the impact of physician intervention on weight lose for obese patients in a randomized trial.
+
+#### Conclusions
+- Intervention is useful
+- No demographic differences between people accepting the intervention
+
+#### Limitations
+- Some patients did not come back, is this data missing at random ? Or patients who don't lose weight do not report
+
+#### Tags
+[\#Obesity](#Obesity) [\#UK](#UK) 
+</details>
+
+### <a name='6'></a> \[6\] [Secular differences in the association between caloric intake, macronutrient intake, and physical activity with obesity](https://www.sciencedirect.com/science/article/abs/pii/S1871403X15001210) 
 
 by Brown, Ruth E and Sharma, Arya M and Ardern, Chris I and Mirdamadi, Pedi and Mirdamadi, Paul and Kuk, Jennifer L
  in 2016
@@ -187,7 +219,7 @@ This article analyses the relation between obesity, caloric intake, macronutrien
 [\#Obesity](#Obesity) [\#USA](#USA) 
 </details>
 
-### <a name='6'></a> \[6\] [Income disparities in body mass index and obesity in the United States, 1971-2002](https://www.ncbi.nlm.nih.gov/pubmed/16217002) 
+### <a name='7'></a> \[7\] [Income disparities in body mass index and obesity in the United States, 1971-2002](https://www.ncbi.nlm.nih.gov/pubmed/16217002) 
 
 by Chang, Virginia W and Lauderdale, Diane S
  in 2005
@@ -224,7 +256,7 @@ This article analyses the evolution of obesity and BMI from 1971 to 2002 given s
 [\#Obesity](#Obesity) [\#Poverty](#Poverty) [\#USA](#USA) 
 </details>
 
-### <a name='7'></a> \[7\] [Exploiting food choice biases for healthier recipe recommendation](https://dl.acm.org/citation.cfm?id=3080826) 
+### <a name='8'></a> \[8\] [Exploiting food choice biases for healthier recipe recommendation](https://dl.acm.org/citation.cfm?id=3080826) 
 
 by Elsweiler, David and Trattner, Christoph and Harvey, Morgan
  in 2017
@@ -253,7 +285,7 @@ This article proposes approached to show in a food recommender system similar re
 [\#Cuisine](#Cuisine) [\#Eating](#Eating) [\#Recommender](#Recommender) 
 </details>
 
-### <a name='8'></a> \[8\] [Health-aware food recommender system](https://dl.acm.org/citation.cfm?id=2796554) 
+### <a name='9'></a> \[9\] [Health-aware food recommender system](https://dl.acm.org/citation.cfm?id=2796554) 
 
 by Ge, Mouzhi and Ricci, Francesco and Massimo, David
  in 2015
@@ -274,7 +306,7 @@ This article proposes a food recommender system that takes into account the calo
 [\#Cuisine](#Cuisine) [\#Eating](#Eating) [\#Recommender](#Recommender) 
 </details>
 
-### <a name='9'></a> \[9\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
+### <a name='10'></a> \[10\] [\# foodporn: Obesity patterns in culinary interactions](https://arxiv.org/abs/1503.01546) 
 
 by Mejova, Yelena and Haddadi, Hamed and Noulas, Anastasios and Weber, Ingmar
  in 2015
@@ -300,7 +332,7 @@ This article analyses the relationship beteen the number of fast food restaurant
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='10'></a> \[10\] [Impact of front-of-pack 'traffic-light' nutrition labelling on consumer food purchases in the UK](https://www.ncbi.nlm.nih.gov/pubmed/19815614) 
+### <a name='11'></a> \[11\] [Impact of front-of-pack 'traffic-light' nutrition labelling on consumer food purchases in the UK](https://www.ncbi.nlm.nih.gov/pubmed/19815614) 
 
 by Sacks, Gary and Rayner, Mike and Swinburn, Boyd
  in 2009
@@ -325,7 +357,7 @@ People were not impacted by this change in the 8 weeks around this time
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#England](#England) [\#Grocery](#Grocery) 
 </details>
 
-### <a name='11'></a> \[11\] [Is everything we eat associated with cancer? A systematic cookbook review](https://europepmc.org/abstract/med/23193004) 
+### <a name='12'></a> \[12\] [Is everything we eat associated with cancer? A systematic cookbook review](https://europepmc.org/abstract/med/23193004) 
 
 by Schoenfeld, Jonathan D and Ioannidis, John PA
  in 2012
@@ -350,7 +382,7 @@ Finer meta analysis could identify which studies have more weight
 [\#Eating](#Eating) [\#Cancer](#Cancer) [\#Meta Analysis](#Meta_Analysis) 
 </details>
 
-### <a name='12'></a> \[12\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
+### <a name='13'></a> \[13\] [You are What you Eat (and Drink): Identifying Cultural Boundaries by Analyzing Food & Drink Habits in Foursquare](https://arxiv.org/abs/1404.1009) 
 
 by Thiago H Silva and Pedro O S Vaz de Melo and Jussara Almeida and Mirco Musolesi and Antonio Loureiro
  in 2014
@@ -375,7 +407,7 @@ Cultural differences can be observed using food related information.
 [\#Eating](#Eating) [\#Social Network](#Social_Network) 
 </details>
 
-### <a name='13'></a> \[13\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
+### <a name='14'></a> \[14\] [Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems](https://dl.acm.org/citation.cfm?id=3052573) 
 
 by Trattner, Christoph and Elsweiler, David
  in 2017
@@ -401,7 +433,7 @@ Users prefer unhealthy recipes. Recommender should weight their recommendations 
 [\#Eating](#Eating) [\#Recommender](#Recommender) [\#Social Network](#Social_Network) [\#USA](#USA) 
 </details>
 
-### <a name='14'></a> \[14\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
+### <a name='15'></a> \[15\] [An obesity-associated gut microbiome with increased capacity for energy harvest](https://www.nature.com/articles/nature05414/) 
 
 by Turnbaugh, Peter J and Ley, Ruth E and Mahowald, Michael A and Magrini, Vincent and Mardis, Elaine R and Gordon, Jeffrey I
  in 2006
@@ -427,7 +459,7 @@ Obese microbiome has an increased capacity for energy harvest from similar diet.
 [\#Obesity](#Obesity) [\#Mircrobiome](#Mircrobiome) 
 </details>
 
-### <a name='15'></a> \[15\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
+### <a name='16'></a> \[16\] [Neurobiologic basis of craving for carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/24139726) 
 
 by Ventura, Tamara and Santander, Jaime and Torres, Rafael and Contreras, Ana Mar{\'\i}a
  in 2014
@@ -465,7 +497,7 @@ This article reviews different explanations for carbs craving.
 [\#Neurobio](#Neurobio) [\#Portion](#Portion) [\#Eating](#Eating) 
 </details>
 
-### <a name='16'></a> \[16\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
+### <a name='17'></a> \[17\] [Ice cream illusions: bowls, spoons, and self-served portion sizes](https://www.ncbi.nlm.nih.gov/pubmed/16905035) 
 
 by Wansink, Brian and Van Ittersum, Koert and Painter, James E
  in 2006
@@ -502,7 +534,7 @@ This article shows the impact of plate and ustensils size on the food consumptio
 [\#Obesity](#Obesity) [\#Portion](#Portion) [\#Eating](#Eating) [\#USA](#USA) 
 </details>
 
-### <a name='17'></a> \[17\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
+### <a name='18'></a> \[18\] [Crowdsourcing health labels: Inferring body weight from profile pictures](https://dl.acm.org/citation.cfm?id=2897727) 
 
 by Weber, Ingmar and Mejova, Yelena
  in 2016
@@ -527,7 +559,7 @@ This article asks a crowdsource to evaluate if twitter users are overweighted ba
 [\#Obesity](#Obesity) [\#Social Network](#Social_Network) [\#CrowdSource](#CrowdSource) 
 </details>
 
-### <a name='18'></a> \[18\] [Personalized nutrition by prediction of glycemic responses](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6#) 
+### <a name='19'></a> \[19\] [Personalized nutrition by prediction of glycemic responses](https://www.cell.com/cell/fulltext/S0092-8674(15)01481-6#) 
 
 by Zeevi, David and Korem, Tal and Zmora, Niv and Israeli, David and Rothschild, Daphna and Weinberger, Adina and Ben-Yacov, Orly and Lador, Dar and Avnit-Sagi, Tali and Lotan-Pompan, Maya and others
  in 2015
@@ -557,7 +589,7 @@ Measures the blood sugar response to identical meals
 [\#Mircrobiome](#Mircrobiome) [\#ML](#ML) [\#Eating](#Eating) 
 </details>
 
-### <a name='19'></a> \[19\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
+### <a name='20'></a> \[20\] [Geography and similarity of regional cuisines in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079161) 
 
 by Zhu, Yu-Xiao and Huang, Junming and Zhang, Zi-Ke and Zhang, Qian-Ming and Zhou, Tao and Ahn, Yong-Yeol
  in 2013
@@ -587,58 +619,61 @@ This article analyzes the impact of geography and climate proximity on food simi
 
 #### <a name='Cancer'></a> Cancer
 
-[\[11\]](#11)
+[\[12\]](#12)
 #### <a name='China'></a> China
 
-[\[19\]](#19)
+[\[20\]](#20)
 #### <a name='CrowdSource'></a> CrowdSource
 
-[\[17\]](#17)
+[\[18\]](#18)
 #### <a name='Cuisine'></a> Cuisine
 
-[\[3\]](#3), [\[7\]](#7), [\[8\]](#8), [\[19\]](#19)
+[\[3\]](#3), [\[8\]](#8), [\[9\]](#9), [\[20\]](#20)
 #### <a name='Eating'></a> Eating
 
-[\[3\]](#3), [\[7\]](#7), [\[8\]](#8), [\[10\]](#10), [\[11\]](#11), [\[12\]](#12), [\[13\]](#13), [\[15\]](#15), [\[16\]](#16), [\[18\]](#18)
+[\[3\]](#3), [\[8\]](#8), [\[9\]](#9), [\[11\]](#11), [\[12\]](#12), [\[13\]](#13), [\[14\]](#14), [\[16\]](#16), [\[17\]](#17), [\[19\]](#19)
 #### <a name='England'></a> England
 
-[\[2\]](#2), [\[3\]](#3), [\[10\]](#10)
+[\[2\]](#2), [\[3\]](#3), [\[11\]](#11)
 #### <a name='Geography'></a> Geography
 
-[\[19\]](#19)
+[\[20\]](#20)
 #### <a name='Grocery'></a> Grocery
 
-[\[2\]](#2), [\[3\]](#3), [\[10\]](#10)
+[\[2\]](#2), [\[3\]](#3), [\[11\]](#11)
 #### <a name='ML'></a> ML
 
-[\[2\]](#2), [\[18\]](#18)
+[\[2\]](#2), [\[19\]](#19)
 #### <a name='Meta_Analysis'></a> Meta Analysis
 
-[\[11\]](#11)
+[\[12\]](#12)
 #### <a name='Mircrobiome'></a> Mircrobiome
 
-[\[14\]](#14), [\[18\]](#18)
+[\[15\]](#15), [\[19\]](#19)
 #### <a name='Network'></a> Network
 
 [\[1\]](#1), [\[4\]](#4)
 #### <a name='Neurobio'></a> Neurobio
 
-[\[15\]](#15)
+[\[16\]](#16)
 #### <a name='Obesity'></a> Obesity
 
-[\[1\]](#1), [\[2\]](#2), [\[4\]](#4), [\[5\]](#5), [\[6\]](#6), [\[9\]](#9), [\[14\]](#14), [\[16\]](#16), [\[17\]](#17)
+[\[1\]](#1), [\[2\]](#2), [\[4\]](#4), [\[5\]](#5), [\[6\]](#6), [\[7\]](#7), [\[10\]](#10), [\[15\]](#15), [\[17\]](#17), [\[18\]](#18)
 #### <a name='Portion'></a> Portion
 
-[\[15\]](#15), [\[16\]](#16)
+[\[16\]](#16), [\[17\]](#17)
 #### <a name='Poverty'></a> Poverty
 
-[\[6\]](#6)
+[\[7\]](#7)
 #### <a name='Recommender'></a> Recommender
 
-[\[7\]](#7), [\[8\]](#8), [\[10\]](#10), [\[13\]](#13)
+[\[8\]](#8), [\[9\]](#9), [\[11\]](#11), [\[14\]](#14)
 #### <a name='Social_Network'></a> Social Network
 
-[\[1\]](#1), [\[9\]](#9), [\[12\]](#12), [\[13\]](#13), [\[17\]](#17)
+[\[1\]](#1), [\[10\]](#10), [\[13\]](#13), [\[14\]](#14), [\[18\]](#18)
+#### <a name='UK'></a> UK
+
+[\[5\]](#5)
 #### <a name='USA'></a> USA
 
-[\[1\]](#1), [\[4\]](#4), [\[5\]](#5), [\[6\]](#6), [\[9\]](#9), [\[13\]](#13), [\[16\]](#16)
+[\[1\]](#1), [\[4\]](#4), [\[6\]](#6), [\[7\]](#7), [\[10\]](#10), [\[14\]](#14), [\[17\]](#17)
